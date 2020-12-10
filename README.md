@@ -1,0 +1,2 @@
+# analisedesentimentosnocombatefakenews
+ANÁLISE DE SENTIMENTO NA CLASSIFICAÇÃO DE FAKE NEWS, DESINFORMAÇÃO E DISCURSO DE ÓDIO
