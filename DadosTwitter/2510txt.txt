@@ -1,0 +1,872 @@
+Content,Date,Language,Location,Number of Likes,Number of Retweets,In Reply To,Author Name,Author Description,Author Statuses Count,Author Favourites Count,Author Friends Count,Author Followers Count,Author Listed Count,Author Verified,Longitude,Latitude,Author
+string,time,discrete,discrete,continuous,continuous,discrete,discrete,string,continuous,continuous,continuous,continuous,continuous,discrete,continuous,continuous,discrete
+meta title=True,meta,meta,meta,meta,meta,meta,meta,meta,meta,meta,meta,meta,meta,meta,meta,meta,meta
+"@yayaassisx Catena áurea sem dúvidas. Procure uma edição antiga de O Senhor dos Anéis em algum sebo. A nova é muito bonita, mas a tradução é terrível",2020-10-25 19:32:09,pt,,0.0,0.0,@yayaassisx,Finarfin,"Filho ingrato da Santa Madre Igreja. Viva Cristo Rei!  🇻🇦🇵🇱
+Rei dos Noldor nas horas vagas.",16124.0,52719.0,736.0,556.0,5.0,False,,,@finarfin__
+@raissabarbosar Sou pior kkkkk,2020-10-25 19:32:04,pt,,0.0,0.0,@raissabarbosar,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+"João Vítor Xavier: ""As empresas de ônibus devem uma satisfação pra cidade, elas são deficitárias? Então mostra a planilha, abre pra gente, mostra qual que é a realidade. Quanto custa, quanto elas ganham, quanto elas pagam.. Mostra pra sociedade"".
+
+#Eleições2020 #BHAZnasEleições https://t.co/7VZWwqMG0p",2020-10-25 19:31:39,pt,,0.0,1.0,,BHAZ,"Portal de notícias de BH. Política, policiais, colunas, emprego, agenda cultural e muito mais de Belo Horizonte, Minas Gerais.",4939.0,127.0,129.0,5832.0,32.0,False,,,@portal_bhaz
+aurea não vale nada véi kkkkkkkkkkk as palavras que ela usam pro deboche são as melhores,2020-10-25 19:30:46,pt,,0.0,0.0,,Larissa 🎪,@nicolasbraz13 💕 @atletico,987.0,466.0,262.0,139.0,0.0,False,,,@aguilarlr__
+"POR FAVOR  BH, VAMOS PARAR OS DESMANDOS  DO KALIL! https://t.co/JJWJPqVI5T",2020-10-25 19:29:57,pt,,1.0,0.0,,Ivone Matos,"Tia da Direita - Gado do  Bolsonaro, Guedes, Damares, Tarcísio, Salles e Gal. Heleno. Agora, Pária do Ernesto. Villas Boas é meu Herói",5657.0,26162.0,1609.0,1114.0,0.0,False,,,@IvoneMatos8
+"[BHAZ NAS ELEIÇÕES] Confira tudo sobre João Vítor Xavier, o sétimo candidato à PBH sabatinado pelo BHAZ! 
+
+#Eleições2020 #BHAZnasEleições #JoaoVitorXavier #JVX #Cidadania #PrefeituraBH #PBH #BH
+https://t.co/qztkkVTe0T",2020-10-25 19:29:31,pt,,0.0,0.0,,BHAZ,"Portal de notícias de BH. Política, policiais, colunas, emprego, agenda cultural e muito mais de Belo Horizonte, Minas Gerais.",4939.0,127.0,129.0,5832.0,32.0,False,,,@portal_bhaz
+@to_loka Bem isso kkk,2020-10-25 19:27:30,pt,,0.0,0.0,@to_loka,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+@CrisGalo @Atletico Kalil pegou o clube endividado e ganhou tudo..........gente que nunca fez nada o critica...... é fato,2020-10-25 19:26:41,pt,BR,0.0,0.0,@CrisGalo,Fernando PF Monteiro🌎,"AGENTE FEDERAL....
+PÓS GRADUAÇÃO EM ESTATÍSTICA
+POLÍTICA: DEMOCRÁTICO PROGRESSISTA.
+SOMENTE IGUALDADE DE OPORTUNIDADE VAI MUDAR O PATAMAR DESSE PAÍS.",380.0,904.0,192.0,16.0,0.0,False,,,@FernandoPF_PF
+Vc é péssima Luiza kkkkk #ProvaDoFogo,2020-10-25 19:26:19,pt,,1.0,0.0,,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+"Topa Tudo por Dinheiro
+
+A pandemia está sendo desculpa para todos os tipos de loucura por dinheiro.
+
+País quebrado e a prefeitura de BH gastando o SEU dinheiro com o que? A gestão Alexandre Kalil hoje tem DUAS prioridades: Carnaval e Associação de Prostituta - Caio Bellote https://t.co/vtLnrefGHS",2020-10-25 19:25:16,pt,,0.0,0.0,,Márcio,"Hashkivênu Adonai Elohênu leshalom, vehaamidênu malkênu lechayim tovim uleshalom.",607.0,2628.0,192.0,16.0,0.0,False,,,@Marcio8448
+"o atlético não me faz bem
+
+- alexandre kalil",2020-10-25 19:24:51,pt,,0.0,0.0,,gio ✩˚｡⋆,"#JAMES: alright, evans? | fan account (d/ela)",26333.0,59968.0,3954.0,3939.0,34.0,False,,,@mirrorbll
+"@oitomaz Kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk dnv vei, e áurea escura tb",2020-10-25 19:24:43,pt,,0.0,0.0,@oitomaz,ImportadaDaFavela,"Por dentro foda-se, por fora tô dentro 
+
+CRUZEIRO ESPORTE CLUBE 💙",2272.0,2932.0,154.0,187.0,0.0,False,,,@RvicThays
+"""então atleticano é essa desgraça"" o kalil mano eu tô passando mal https://t.co/bjYicRgp52",2020-10-25 19:23:13,pt,,0.0,0.0,,gio ✩˚｡⋆,"#JAMES: alright, evans? | fan account (d/ela)",26333.0,59968.0,3954.0,3939.0,34.0,False,,,@mirrorbll
+"@nikolas_dm @Carvalh61299508 Se Deus quiser vamos tirar o ditador,fora Kalil",2020-10-25 19:19:13,pt,,0.0,0.0,@nikolas_dm,Neila de Andrade,Cristã e conservadora,999.0,16.0,120.0,69.0,0.0,False,,,@NeiladeAndrade1
+"MC Taya, Áurea Maria &amp; VINÍ - B3CK DE BANDID4 https://t.co/OEGNIqjt7n via @YouTube",2020-10-25 19:19:01,pt,,0.0,0.0,,-,Instagram/euliveiras,36629.0,10703.0,685.0,338.0,7.0,False,,,@euliveiras
+@aurea_argoloo nemmm lkkkkkk,2020-10-25 19:14:46,pt,,0.0,0.0,@aurea_argoloo,bruni,✨🦋🌙🪐,1699.0,2363.0,319.0,570.0,0.0,False,,,@brunavieiraap
+@CarlosLupiPDT @delmartharocha @andersonquack Kalil que ir para o PDT,2020-10-25 19:13:06,pt,,0.0,0.0,@CarlosLupiPDT,Edilma Cotrim,,1661.0,2791.0,151.0,71.0,0.0,False,,,@CotrimEdilma
+Meu anime favoritooooooo ahhhhhhhh😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍 https://t.co/oMSe5T6nay,2020-10-25 19:11:55,pt,,2.0,1.0,,ªureª tºxicª cºm ªcentº,"feminismo, paz e amor.",51675.0,41180.0,432.0,1029.0,7.0,False,,,@aurea_lukenya
+essa luisa barreto atua muito coitada ta achando que eh conto de fadas,2020-10-25 19:08:31,pt,,0.0,0.0,,frigideira antiderrapante,celta prata rebaixado tocando two ghosts,8468.0,34699.0,258.0,255.0,0.0,False,,,@tesodoro
+Eu vou morrer com os comentários ehhh ahahahahahahahahahahahahaha https://t.co/AffXGGG1RJ,2020-10-25 19:08:26,pt,,0.0,0.0,,ªureª tºxicª cºm ªcentº,"feminismo, paz e amor.",51675.0,41180.0,432.0,1029.0,7.0,False,,,@aurea_lukenya
+My Hero Academia é ruim,2020-10-25 19:04:19,pt,,0.0,0.0,,kamarada,You know I read it in a magazine,4529.0,24690.0,226.0,180.0,2.0,False,,,@kalil_pz
+"@aureacarolinax áurea, vem debater com a gente - alunos do campo de públicas da ufmg e fjp - e os demais candidatos no dia 28/10, às 18h 🥺
+pfvrrrr nunca te pedi nada ❤️",2020-10-25 19:01:28,pt,,0.0,0.0,@aureacarolinax,reclamex,ah não vc por aqui,21090.0,13566.0,160.0,374.0,0.0,False,,,@henriquediaas_
+Queria puxar conversa mas ela é bonita demais,2020-10-25 19:01:00,pt,,0.0,0.0,,kamarada,You know I read it in a magazine,4529.0,24690.0,226.0,180.0,2.0,False,,,@kalil_pz
+"mamãe já tá convencida em votar na Áurea, agora vamos de papai",2020-10-25 18:52:23,pt,,5.0,0.0,,Sofia é Duda 1️⃣2️⃣0️⃣0️⃣0️⃣,por + amor,42503.0,44600.0,997.0,1288.0,3.0,False,,,@sofiaamarall
+"@kalil_macedo02 @SerieC_ Velho, conseguiram essa proeza.
+Pqp 😂😂😂😂😂😂😂",2020-10-25 18:52:12,pt,,1.0,0.0,@kalil_macedo02,Rennêr Ribeiro,👨🏻‍💻 @borabeloficial,97.0,31730.0,110.0,57.0,1.0,False,,,@ribeirorenner_
+"Minhas amigas são doidas nuns Mucilon, q pelo amor do universo...",2020-10-25 18:51:57,pt,,0.0,0.0,,🌹U.N.I.C.O.R.N.A🌹,"╭∩╮(ಠ_ಠ)╭∩╮
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+˙˙˙ᴉnbɐ ɹɐɔoloɔ ǝnb o ᴉǝs u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+075𓆉︎027
+🌹",1815.0,5721.0,110.0,155.0,0.0,False,,,@aurea_argoloo
+"O PREFEITO ALEXANDRE KALIL VAI LIBERAR OS ""EVENTOS"". MAIS UMA TENTATIVA PARA SE REELEGER!! NO ENTANTO, SE CONSEGUIR SEU INTUITO, VAI PROMOVER O SEGUNDO LOCKDOWN PARA ENTREGAR DE VEZ BELO HORIZONTE PARA A CHINA.
+@taoquei1",2020-10-25 18:51:48,pt,,1.0,0.0,,ADEMAR SURNICHE,,273.0,215.0,91.0,5.0,0.0,False,,,@ASurniche
+@brunavieiraap Q tu se fudeu...,2020-10-25 18:50:32,pt,,1.0,0.0,@brunavieiraap,🌹U.N.I.C.O.R.N.A🌹,"╭∩╮(ಠ_ಠ)╭∩╮
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+˙˙˙ᴉnbɐ ɹɐɔoloɔ ǝnb o ᴉǝs u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+075𓆉︎027
+🌹",1815.0,5721.0,110.0,155.0,0.0,False,,,@aurea_argoloo
+@aomutico @CrisGalo @KGalerosa @Atletico KKKKKKKKKKKKKKKK Kalil era dos nossos,2020-10-25 18:48:05,pt,,1.0,0.0,@aomutico,ryen 🇵🇾,é isso @atletico,1181.0,701.0,95.0,97.0,0.0,False,,,@olvxryan
+"Quem votar nessa porcaria de Kalil quer BH no caos.
+#Forakalil https://t.co/75LDpwdCzE",2020-10-25 18:42:57,pt,,4.0,3.0,,Lu,"💯 por cento Bolsonaro.
+Não respondo DM 🚫 Gratidão",17522.0,17588.0,12008.0,26101.0,4.0,False,,,@LuDireita_
+@sbinstarz Estarei a mimir,2020-10-25 18:42:34,pt,,1.0,0.0,@sbinstarz,moarmy,BTS & TXT 💜,6459.0,23194.0,1355.0,635.0,0.0,False,,,@aurea___
+alguém me chama p sair aí que áurea me chamou p um rolê e sumiu 👍🏻,2020-10-25 18:40:15,pt,,2.0,0.0,,a 🧢,balostrador,8397.0,4808.0,205.0,333.0,1.0,False,,,@apenasghost
+"Roberto Kalil e Átila Iamarino garotos propaganda do STE.
+
+Um médico famoso, enrolou para admitir que tomou cloroquina.
+
+O segundo, YouTuber sensacionalista atemorizou o Brasil com sua estatística de padaria, disse que morreriam 1 mi de brasileiros ate agosto/20",2020-10-25 18:39:16,pt,,0.0,0.0,,Simplesmente eu,Por um Brasil melhor e justo para todos!,4418.0,5055.0,383.0,41.0,0.0,False,,,@rozzalima
+"@Aliine_Aurea oush, que jogo bizarro",2020-10-25 18:38:26,pt,,0.0,0.0,@Aliine_Aurea,Abz ♡,fé,5981.0,6828.0,136.0,145.0,0.0,False,,,@amandaabz_
+"@charlesbigfoot @fabiano_hojjo @nirdop @liberdademedico Bem isso o Dr. Kalil disse q utilizou a clorofila, já o David Uip mentiu dizendo q não tinha usado clorofila, até ter a receita médica vazada nas redes sociais ...",2020-10-25 18:38:17,pt,,0.0,0.0,@charlesbigfoot,Andrezza Attuy,"Dentista, de Andradina-SP, patriota, cristã.
+Pátria Amada Brasil!",1203.0,2203.0,357.0,268.0,0.0,False,,,@SchmittAttuy
+"@VogelMaricy E em Belo Horizonte, Kalil vai ganhar? Ele faliu BH, ando desesperada tudo quebrado, se puder dizer algo, fico agradecida",2020-10-25 18:36:23,pt,,1.0,0.0,@VogelMaricy,Santuza,"Só peço para ser livre. As borboletas são livres.
+(Charles Dickens)",24213.0,450.0,1709.0,509.0,15.0,False,,,@PAZELIBERDADE
+E melhorou #LuizaNoFaro,2020-10-25 18:36:23,pt,,0.0,0.0,,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+"Jojo estava certa, a Victória se sujou feio #LuizaNoFaro",2020-10-25 18:34:36,pt,,4.0,0.0,,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+Finalmente alguém fez uma maquiagem direito na Luiza kkkk #LuizaNoFaro,2020-10-25 18:32:53,pt,,0.0,0.0,,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+"@carteiroreaca Se continuar assim, BH vai ser o centro financeiro do país. Com Bruno Engler na prefeitura. Dia 1 de novembro temos que lotar as ruas #DoriaTemQueCair",2020-10-25 18:29:49,pt,,2.0,0.0,@carteiroreaca,Prudência e Sofisticação,"40 anos de idade bancado por papai e mamãe
+Fã de FHC e Dória
+Minha Erva Minha Vida",13879.0,30601.0,363.0,151.0,0.0,False,,,@NutelaRaiz
+11% meu amor kkkkk #LuizaNoFaro,2020-10-25 18:29:34,pt,,1.0,0.0,,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+Toma Luiza falsaaaaa #LuizaNoFaro,2020-10-25 18:28:56,pt,,0.0,0.0,,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+Tinha até esquecido do rosto da Luiza kkkkkkk #LuizaNoFaro,2020-10-25 18:27:35,pt,,0.0,0.0,,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+@RutthPires Vai de Áurea?,2020-10-25 18:27:14,pt,,0.0,0.0,@RutthPires,𝔧𝔬𝔱𝔱𝔞 ‼️,"Homem trans, pré T //  sou demais pro seu quintal",2071.0,3418.0,108.0,22.0,0.0,False,,,@jppazini_
+Olha a cara dela kkkkkkk #LuizaNoFaro,2020-10-25 18:26:36,pt,,1.0,0.0,,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+"Em 2022 Angola vai aquecer, eu até tenho medo do que vai acontecer.",2020-10-25 18:23:20,pt,,0.0,0.0,,ªureª tºxicª cºm ªcentº,"feminismo, paz e amor.",51675.0,41180.0,432.0,1029.0,7.0,False,,,@aurea_lukenya
+@Ali_Rachy Tbm tenho saudades tuas bicha 😭😭😭,2020-10-25 18:22:03,pt,,0.0,0.0,@Ali_Rachy,ªureª tºxicª cºm ªcentº,"feminismo, paz e amor.",51675.0,41180.0,432.0,1029.0,7.0,False,,,@aurea_lukenya
+@kalil_macedo02 Hahahaha. Mas nem falo da arte em si. Se aumentasse a fonte com o nome dos jogadores estaria perfeito 😂,2020-10-25 18:21:25,pt,,3.0,0.0,@kalil_macedo02,SÉRIE C,Ex-queridinha no mata-mata. Meu atual campeão @nauticope 🇦🇹🏆,15905.0,20171.0,100.0,50977.0,91.0,False,,,@SerieC_
+KALIL BH TEM PREFEITO 👏👏👏👏👏👏👏👏👏👏👏👏👏👏,2020-10-25 18:20:19,pt,,0.0,0.0,,CANDIDATO VEREADOR CONTAGEM MG 1️⃣3️⃣1️⃣9️⃣0️⃣ ‼,"CRISTÃO   p/ gloria de Deus 43 ANOS   TORCEDOR GALO E 
+
+  PETISTA CONVICTO:   Jesus   Cristo me encontrou : o perdido era  eu ,honras e glorias a' Deus",42365.0,13275.0,1546.0,1254.0,4.0,False,,,@rogeriojequiti
+"@wtfdama Hoje tem Aurea, bro",2020-10-25 18:20:08,pt,,0.0,0.0,@wtfdama,O Plácido,"S.L.Benfica ❤️||
+ADR Aveleda ||
+U-19",14908.0,4619.0,502.0,254.0,0.0,False,,,@oarmabranca
+@SerieC_ Achei uma arte pior que as do botafogo kkkkkkkkkk,2020-10-25 18:19:07,pt,,2.0,0.0,@SerieC_,Trust the Process 🇺🇾,"Botafoguense y Laziale, as vezes me meto no Hertha.
+
+@BeloScouts31 , @AnalisesMj y @_taticalizando
+
+kalilmacedo77@gmail.com",3206.0,16337.0,122.0,167.0,1.0,False,,,@kalil_macedo02
+"Do jeito que as coisas são, capaz dos dois escrotos ganharem 🤦🏻‍♀️ #AFasenda12",2020-10-25 18:18:39,pt,,0.0,0.0,,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+"BH tem prefeito, fechado com Kalil. https://t.co/YtkzM85q3r",2020-10-25 18:18:29,pt,,1.0,0.0,,Antonio Aleano,,6.0,7.0,3.0,1.0,0.0,False,,,@AleanoAntonio
+"Jacke e Lipe na prova, um dos dois tem que ganhar 🙏🏻 #AFasenda12",2020-10-25 18:17:56,pt,,0.0,0.0,,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+na cabeça da minha tia 200 anos de lei aurea nao mudaram a mentalidade do brasileiro mas 10 anos de pec das domesticas revolucionaram o pensamento da madame da barra,2020-10-25 18:17:17,pt,,3.0,0.0,@heymasg,magdalena,bot de tristezas e reclamações,7004.0,18740.0,317.0,163.0,0.0,False,,,@heymasg
+talvez meu pai vai votar na aurea igual a mim????? o mundo ta é doido mesmo,2020-10-25 18:16:21,pt,,1.0,0.0,,bruna,live and let die,26980.0,11913.0,521.0,638.0,0.0,False,,,@brunaricaldoni
+@olvxryan @CrisGalo @KGalerosa @Atletico Kalil é a Massa em um homem só kkkkkkkkkkkk e esse time é o peso q a gnt carrega aq na Terra,2020-10-25 18:11:32,pt,,1.0,0.0,@olvxryan,Anna ⑉ ᶜᵃᵐ ¹⁹⁰⁸ ⑉ ⚫⚪,eu sou falcão e Galo doido 🐔,3216.0,5428.0,125.0,77.0,0.0,False,,,@aomutico
+Central tem uma dificuldade gigante em sair da pressão,2020-10-25 18:09:52,pt,,0.0,0.0,,Trust the Process 🇺🇾,"Botafoguense y Laziale, as vezes me meto no Hertha.
+
+@BeloScouts31 , @AnalisesMj y @_taticalizando
+
+kalilmacedo77@gmail.com",3206.0,16337.0,122.0,167.0,1.0,False,,,@kalil_macedo02
+DEM: maior patrocinador do Kalil https://t.co/M4qL9kBx3o,2020-10-25 18:09:35,pt,,1.0,1.0,,VG Notícias,Portal de Notícias - Prazer em Informar!,77772.0,21.0,219.0,4242.0,28.0,False,,,@VGNoticias
+"Alexandre Kalil: 
+“Politizou a coisa. Fica parecendo que quem não quer morrer é comunista” 
+
+https://t.co/c3FO1YPOm1 via @elpais_brasil",2020-10-25 18:09:03,pt,,0.0,0.0,,Zeh KarloS,"""Cogito ergo sum""
+Ageless
+#TmjAntiNeoNaziFascistas
+#StayHome",2521.0,971.0,482.0,336.0,0.0,False,,,@jkarlos1911
+Gramado do lacerdão ta uma lástima,2020-10-25 18:05:51,pt,,0.0,0.0,,Trust the Process 🇺🇾,"Botafoguense y Laziale, as vezes me meto no Hertha.
+
+@BeloScouts31 , @AnalisesMj y @_taticalizando
+
+kalilmacedo77@gmail.com",3206.0,16337.0,122.0,167.0,1.0,False,,,@kalil_macedo02
+"@nopontodofato A caixa preta da BHTRANS foi aberta, o Kalil olhou lá dentro com os olhos de um comunista e adorou o que viu. Quanto aos alagamentos, cada um que cuide de si e evite se afogar.",2020-10-25 18:03:38,pt,,2.0,0.0,@nopontodofato,Dalcio Araujo 🇧🇷,"Empresário, conservador, armamentista, pai de família. Acredito na prosperidade do Brasil pelo trabalho e pela justiça.",23539.0,42432.0,1199.0,1413.0,17.0,False,,,@DalcioNews
+"Bruno Engler com certeza é o candidato a prefeito mais inconveniente que existe. Põe um cacete de som em plena avindes em pleno domingo.
+O brasileiro não tem paz mesmo",2020-10-25 17:56:42,pt,,0.0,0.0,,"Brahma, a nº 1","não quero o que a cabeça pensa, quero o que a alma deseja",2050.0,7114.0,237.0,233.0,0.0,False,,,@_donajulia
+"Alô BH, por favor, votem em Bruno Engler!
+#DoriaTemQueCair https://t.co/MxChiaZlgd",2020-10-25 17:55:10,pt,,6.0,1.0,,Cris Bolsonaro 2022,Quem semeia a injustiça colherá a desgraça,164072.0,65370.0,682.0,9081.0,9.0,False,,,@ciancaglini_15
+kalil só fala merda,2020-10-25 17:54:36,pt,,2.0,0.0,,fresh chemicalsszss,"bajale
+
+
+amor de todas as minhas vidas @play3rOfDayss 💖",33613.0,49811.0,713.0,666.0,10.0,False,,,@duartezzzzz
+@tixinhadois @FalkolOficial @VivoKeyd Kalil é monstro mano,2020-10-25 17:53:38,pt,,0.0,0.0,@tixinhadois,Buurk,,8762.0,89.0,40.0,158.0,3.0,False,,,@_Hurick
+"Com o DEM como maior doador, Kalil lidera arrecadações de campanha: R$ 1.481.216,66 https://t.co/98Y6PWmO7k",2020-10-25 17:52:53,pt,,0.0,0.0,,VG Notícias,Portal de Notícias - Prazer em Informar!,77772.0,21.0,219.0,4242.0,28.0,False,,,@VGNoticias
+@BrunoEnglerDM Parabéns Bruno Engler será eleito com fé em Deus,2020-10-25 17:52:04,pt,,0.0,0.0,@BrunoEnglerDM,Graça Martins,🇧🇷🙏,602.0,6283.0,395.0,92.0,0.0,False,,,@GraaMar90352563
+"Se importa não, cancela KKKKKKKKKKKKKKKK",2020-10-25 17:48:12,pt,,1.0,0.0,,gordão🦈,Guajará Mirim/RO 17y,62.0,112.0,176.0,133.0,0.0,False,,,@kalil_emanuel
+"Mano o Kalil é melhor que essas pragas de bolsonaristas aqui, mas meu sonho molhado era que a Áurea ganhasse",2020-10-25 17:46:16,pt,,1.0,0.0,,武蔵 川上,"É isso aí. Ele/Dele. 17 anos
+
+https://t.co/7rTuTmtJgv",21656.0,34959.0,589.0,256.0,2.0,False,,,@yuriyasuda8
+@otempo É Kalil neles....,2020-10-25 17:45:34,pt,,0.0,0.0,@otempo,Victor GALO,Clube Atlético Mineiro,3702.0,1309.0,481.0,43.0,0.0,False,,,@VictorGaloCAM
+"@SilverioElienai O que eu não to entendendo é porque a população de BH vai reeleger o Kalil, tem o Bruno Engler como opção Bolsonarista, não acredito que isso vai acontecer.",2020-10-25 17:45:06,pt,,1.0,0.0,@SilverioElienai,Rodrigo De Jesus Pereira,Seja Feliz.,65.0,704.0,348.0,32.0,0.0,False,,,@Rodrigo72828703
+Eu sei que tu ainda se importa,2020-10-25 17:44:34,pt,,4.0,1.0,,gordão🦈,Guajará Mirim/RO 17y,62.0,112.0,176.0,133.0,0.0,False,,,@kalil_emanuel
+"Este e um dos poucos candidatos, Deus, família e vida, trocar ele por Kalil, e renegar a deus e dar a mão ao satanás Belo Horizontinos https://t.co/79Q2h3v3IJ",2020-10-25 17:42:05,pt,BR,0.0,0.0,,Aroldo123,,15069.0,458.0,1894.0,824.0,0.0,False,,,@Aroldo1233
+"@dearchitta 13 - Queria te conhecer pessoalmente, você tem uma aurea muito boa. Você é a buchada que faltava na minha marmita.",2020-10-25 17:41:18,pt,,1.0,0.0,@dearchitta,ؘ,"💨◞  𝗵ua͟n𝗴     守る    𖥦   𝗿en͟ju𝗻  𓍼   𓄹 ⠀
+
+ela/dela",5959.0,8241.0,141.0,136.0,3.0,False,,,@HuangIory
+@DanielAmaralCEC @aleaugusto To con Bruno Engler futuro prefeito....tem aval presidente é conservador e muito bom...CHEGA esquerda nesse país,2020-10-25 17:40:02,pt,,0.0,0.0,@DanielAmaralCEC,SANDRO AMÉRICO🐰,"🇧🇷cristão. conservaor. torcedor e sofredor time mais simpático Brasil e com camisa mais linda...
+BRASIL acima tudo e Deus acima de todos....",12847.0,6379.0,4021.0,1557.0,0.0,False,,,@sandroamerico74
+@CECBruno @DanielAmaralCEC Dúvida ??? Vc já viu plataformas e que defende Bruno Engler futuro prefeito?  São as mesmas do presidente,2020-10-25 17:38:29,pt,,0.0,0.0,@CECBruno,SANDRO AMÉRICO🐰,"🇧🇷cristão. conservaor. torcedor e sofredor time mais simpático Brasil e com camisa mais linda...
+BRASIL acima tudo e Deus acima de todos....",12847.0,6379.0,4021.0,1557.0,0.0,False,,,@sandroamerico74
+"Pois é!
+E na minha cidade um Faz Nada, arrogante, prepotente e arremedo de ditador culpa um Lockdown funesto pela baixa mortalidade da pandemia de matéria plástica.
+E dizem que 60% do eleitorado acreditou.
+Papai Noel existe!
+#Forakalil 
+BH é Bruno Engler https://t.co/zNLMl9aNYS",2020-10-25 17:37:18,pt,,3.0,0.0,,Washington Oliveira,"Cristão, brasileiro, de bem comigo e com meu voto!",7718.0,9754.0,2077.0,1477.0,0.0,False,,,@washoliva
+"@DanielAmaralCEC Ou seja, pelos resultados, não vai ter organização e o Kalil, infelizmente, vai ganhar no primeiro turno.",2020-10-25 17:34:29,pt,,0.0,0.0,@DanielAmaralCEC,Ivo Chagas,Nada será como antes amanhã.,13144.0,667.0,365.0,252.0,1.0,False,,,@ivochagas
+O candidato a prefeito mostrando o kalil falando q igreja é um saco. Cara para d fazer propaganda pro concorrente,2020-10-25 17:29:12,pt,,0.0,0.0,,contêm humor niilista de escárnio Scottiano,"Don't fuck with me, I'm a scientist",400362.0,2101.0,931.0,817.0,31.0,False,,,@cahbuzelim
+"@paulofscorrea @Mc83Gabi @PaivaNOVO @eduardorodrigo @Paiva São de outros estados e agora encheram um tweet dele pedindo pra não votarem nele.
+
+Vamos votar em quem no Kalil?",2020-10-25 17:28:52,pt,,0.0,0.0,@warleyralmeida,Warley Almeida,Menos imposto é mais.,3449.0,20682.0,283.0,95.0,0.0,False,,,@warleyralmeida
+"@tixinhadois @FalkolOficial @VivoKeyd O Kalil n poder ter jogado aquele 1° ignation foi um pecado, mas agr o menino tá aí mostrando oq sabe fazer kk",2020-10-25 17:27:47,pt,,0.0,0.0,@tixinhadois,Jefferson Brenner 🔴🐺,,579.0,8378.0,876.0,88.0,0.0,False,,,@jeffersonbrenn1
+@kalil_trabulsi deus me livre,2020-10-25 17:24:32,pt,,0.0,0.0,@kalil_trabulsi,𝖕𝖚𝖗𝖎𝖓,maionese caseira fan account | @gabrieIcastro,2503.0,1045.0,270.0,199.0,0.0,False,,,@batmaia
+@_dudacaardoso e eu de bh p votar na áurea 🥺✊🏽,2020-10-25 17:24:15,pt,,0.0,0.0,@_dudacaardoso,franciele,,24838.0,9495.0,248.0,249.0,0.0,False,,,@eaiquertcgata
+@marcel_zc Potencial eleitoral de uma beterraba e sério risco de perder o mandato pro kalil? Kkkk,2020-10-25 17:23:08,pt,,0.0,0.0,@marcel_zc,labancariano,"🔞política,putaria,polêmicas,futebol.",30307.0,17579.0,191.0,461.0,16.0,False,,,@labancariano
+@CECBruno @DanielAmaralCEC Em Kalil uai. Lógico!!!!,2020-10-25 17:20:37,pt,,0.0,0.0,@CECBruno,Júnior,...livrai me de todo o mal. Amém! 🙏🏾 Cruzeirense Mineiro,3001.0,2957.0,1131.0,424.0,0.0,False,,,@Jnior2504
+"@lolhehehe ""O plano diretor aprovado pelo Kalil é socialista""",2020-10-25 17:19:22,pt,,0.0,1.0,@lolhehehe,אַבְנֵר,não,13750.0,4251.0,420.0,183.0,1.0,False,,,@abnerdourado
+"@GFiuza_Oficial Rede Globo e seus Jornalistas e os políticos da esquerda!!! Mais Kalil de BH, e outros vagabundos da política!!.",2020-10-25 17:18:06,pt,,0.0,0.0,@GFiuza_Oficial,Mark,,327.0,871.0,124.0,5.0,0.0,False,,,@Mark27149190
+@joaovitorxavier Bota a cara pra falar mal do Kalil e explica os recursos da agência de publicidade de sua campanha,2020-10-25 17:12:22,pt,,0.0,0.0,@joaovitorxavier,Não é um fake,,1448.0,2414.0,36.0,21.0,0.0,False,,,@manobarreiro
+@kalil_emanuel Se desenrolar me avisa,2020-10-25 17:10:41,pt,,0.0,0.0,@kalil_emanuel,GL,"Mundo doente, mas a mente sã",5396.0,5540.0,100.0,176.0,0.0,False,,,@Frajola241
+@kalil_macedo02 Correto,2020-10-25 17:10:36,pt,,1.0,0.0,@kalil_macedo02,Crico,"Aqui eu falo de games, futebol paraibano e faço mtas críticas ao Bozonaro. Um dos fundadores do @vozdatorcida. PENSE direitinho antes de me seguir (RISOS).",21832.0,19804.0,360.0,478.0,2.0,False,,,@cricas2
+@joapcm MDS 😭😭😭😭😭😭 Deus a abençoe 🙏🙏🙏,2020-10-25 17:07:40,pt,,1.0,0.0,@joapcm,kamarada,You know I read it in a magazine,4529.0,24690.0,226.0,180.0,2.0,False,,,@kalil_pz
+@DanielAmaralCEC João Vitor Xavier só pode ser piada. Áurea Carolina é a única que presta dessa lista.,2020-10-25 17:07:15,pt,,3.0,0.0,@DanielAmaralCEC,Renato de Almeida 🇧🇷,"Não chores, meu filho;
+Não chores, que a vida
+É luta renhida:
+Viver é lutar.
+A vida é combate,
+Que os fracos abate,
+Que os fortes, os bravos
+Só pode exaltar.",58678.0,78957.0,617.0,303.0,0.0,False,,,@renatoalmax
+Aí aí os ônibus são excelentes Kalil seu lindo https://t.co/Q3bKUWMEuj https://t.co/jsR1eFSvrX,2020-10-25 17:05:56,pt,,1.0,0.0,,Guto Souza,@Atletico @Lakers,18952.0,10307.0,1564.0,1323.0,0.0,False,,,@SouzzaGutoo
+@rochaeliseu @BrunoEnglerDM O Olhar do Kalil é sinistro! #Forakalil,2020-10-25 17:05:50,pt,,0.0,0.0,@rochaeliseu,Luiz Henrique Paula,"LUIZ HENRIQUE DE PAULA🇧🇷🇧🇷🇧🇷 🇺🇸 🇮🇱
+MINHA FAMÍLIA, MEU TESOURO!
+🤖🤖🤖 DE DIREITA E FAÇO PARTE DO 🐂🐂🐂 .👌👌👌👍👍👍",27530.0,39151.0,6394.0,5813.0,0.0,False,,,@luizhpaula11
+"@zfabrogmailcom @jairbolsonaro Por isso BH precisa acordar e tirar o Kalil da prefeitura. É um ditador que quebrou a cidade. Temos a opção do @BrunoEnglerDM apoiado pelo Presidente. É a nossa chance!
+#BrunoEngler28paraBH",2020-10-25 17:04:57,pt,,10.0,4.0,@zfabrogmailcom,Cláudia,#BolsonaroAte2026,19831.0,87962.0,4142.0,2923.0,2.0,False,,,@claudiacampos72
+meu casa kalil deu tanto emprego pra bh que ngm aqui usa twitter🚫🧢,2020-10-25 17:04:39,pt,,0.0,0.0,,marco,at least I found the end,4031.0,19071.0,119.0,87.0,0.0,False,,,@sirm4rco
+@kalil_pz ela pediu pra eu pausar na abertura pra ela poder cantar junto... tarde até demais,2020-10-25 17:02:14,pt,,1.0,0.0,@kalil_pz,schown,so é um problema se eu me importar,1982.0,5272.0,61.0,44.0,1.0,False,,,@joapcm
+jungkook sentiria nojo de voce garoto ele sentiria a tua áurea ruim e se afastaria você estaria fazendo um favor … — se m https://t.co/nCnS9otCnJ,2020-10-25 16:59:46,pt,,0.0,0.0,,ؘ,#📬: 센스만점 태형이가되야지   #KOOKV 🐰🐯,6368.0,7239.0,381.0,1364.0,12.0,False,,,@jimisense
+"@DanielAmaralCEC @arroganteCEC Áurea Carolina, sem dúvida nenhuma",2020-10-25 16:57:07,pt,,2.0,0.0,@DanielAmaralCEC,debora,futebol feminino de esquerda | fan account lilia schwarcz,67371.0,29553.0,514.0,839.0,33.0,False,,,@opsdebora
+"O ar ta diferente hoje,eita botafogo...",2020-10-25 16:56:06,pt,,8.0,0.0,,Trust the Process 🇺🇾,"Botafoguense y Laziale, as vezes me meto no Hertha.
+
+@BeloScouts31 , @AnalisesMj y @_taticalizando
+
+kalilmacedo77@gmail.com",3206.0,16337.0,122.0,167.0,1.0,False,,,@kalil_macedo02
+"AHHH, época áurea da Disney https://t.co/95U7ajoWUU",2020-10-25 16:55:15,pt,,0.0,0.0,,Larissa Siqueira,"Leitora
+sergipana
+brasileira
+geminiana",728.0,962.0,202.0,46.0,0.0,False,,,@palavrasdalaris
+Eu avisei...,2020-10-25 16:54:08,pt,,0.0,0.0,,gordão🦈,Guajará Mirim/RO 17y,62.0,112.0,176.0,133.0,0.0,False,,,@kalil_emanuel
+"Intervenção junto a Kalil consegue a retomada dos cinemas, teatros e museus.
+
+#Teatro #Cinema #museu #kalil #leoburgues https://t.co/ry7hMI3vGH",2020-10-25 16:54:02,pt,,2.0,0.0,,Ver. Léo Burguês,"Vereador de BH, líder de governo do prefeito Kalil, candidato à reeleição pelo PSL, número 17.000 https://t.co/tUnJMT9U4x",124.0,5.0,48.0,25.0,1.0,False,,,@leo_burgues
+@kalil_macedo02 @ArthurS15244452 Pq ele é roceiro,2020-10-25 16:52:42,pt,,0.0,0.0,@kalil_macedo02,Ícaro Análises,"📗 Co-autor: As táticas dos campeões
+📊 Colunista: @mw_futebol2 e @DoentesPFutebol
+✉️: icarocaldas123@gmail.com 
+🤝: DM 
+🗣️: Minha OPINIÃO não é ANÁLISE! ⚽",66096.0,120734.0,4105.0,9412.0,31.0,False,,,@10icarocaldas
+@10icarocaldas @ArthurS15244452 pq vc ta marcando esse pessoal da roça aqui pícaro?,2020-10-25 16:52:24,pt,,0.0,0.0,@10icarocaldas,Trust the Process 🇺🇾,"Botafoguense y Laziale, as vezes me meto no Hertha.
+
+@BeloScouts31 , @AnalisesMj y @_taticalizando
+
+kalilmacedo77@gmail.com",3206.0,16337.0,122.0,167.0,1.0,False,,,@kalil_macedo02
+"@T4deeu cade,ta eu,Vitor e Kalil",2020-10-25 16:52:12,pt,,1.0,0.0,@T4deeu,pitbull de raça,"vestido com as roupas e as armas de Jorge,carregado de axé sou soldado de Ogum",5293.0,4678.0,275.0,229.0,1.0,False,,,@gustavoemanwel
+@kalil_macedo02 Não nego,2020-10-25 16:51:43,pt,,1.0,0.0,@kalil_macedo02,Junior,"80% Futebol e o resto tem frequência, as vezes Bundesliga, Hertha e Man United. O @EcVitoria acabou com a minha vida. 👨🏾‍💻@EcvStats e @AnalisesMJ.",28970.0,64790.0,1161.0,453.0,0.0,False,,,@JuniorArj2k
+#AbaixeImpostoGamer boa tarde,2020-10-25 16:51:27,pt,,2.0,0.0,,iamkaka,"#gofla
+main lee (500K+ de maestria) porém ruim 
+18Y 
+instagram: @k4l1l_mor4es
+ouro 4",145.0,5479.0,66.0,8.0,0.0,False,,,@kalil_moraes
+KKKKKK roceiro aí https://t.co/P2fPpwKmXk,2020-10-25 16:49:52,pt,,0.0,0.0,,Trust the Process 🇺🇾,"Botafoguense y Laziale, as vezes me meto no Hertha.
+
+@BeloScouts31 , @AnalisesMj y @_taticalizando
+
+kalilmacedo77@gmail.com",3206.0,16337.0,122.0,167.0,1.0,False,,,@kalil_macedo02
+"Entra na minha casa entra na minha vida, mexe com minha estrutura sara todas as feridas https://t.co/4sdAEMCGyI",2020-10-25 16:49:45,pt,,0.0,0.0,,Kalil,"Então, é a vida!",839.0,7457.0,358.0,240.0,1.0,False,,,@kalil_ribeiro
+"Jovem mesmo, estudante universitário que em pleno 2020 defende o MPLA e não é filho de marimbondos, é ignorante ou bajú?",2020-10-25 16:47:22,pt,,0.0,0.0,,Áurea,Desenvolvi juntamente com os meus amigos a Xikola Yetu. Uma plataforma digital de cursos 100% grátis para os angolanos e esse é o meu contributo à nação!✌🏾,8596.0,9219.0,754.0,575.0,3.0,False,,,@aurea_bianca_
+"Bah, mas é uma mão ir até áurea né?  Vou não kkkkkkkkkkkkkkk",2020-10-25 16:44:15,pt,,0.0,0.0,,♚ Gregg,Gaúcho 🔪  Pisciano 🐟  Colorado 🔴⚪,22555.0,6125.0,441.0,435.0,0.0,False,,,@GVebber
+@DanielAmaralCEC Kalil tem dedo dele nessa situação do Cruzeiro.. mais tem cruzeirense que votam em peso nesse cara,2020-10-25 16:43:07,pt,,1.0,0.0,@DanielAmaralCEC,Léo hexa,,2386.0,1551.0,1774.0,589.0,1.0,False,,,@Lo41107114
+@kalil_macedo02 E às 20h e 30 ????? Vsf,2020-10-25 16:42:34,pt,,1.0,0.0,@kalil_macedo02,Mangs,Searching For The Answer Of Everything...,259.0,2544.0,48.0,11.0,0.0,False,,,@Vinirfm1
+"Que desgraça Kalil, culpa sua estou desempregado, agora vou demorar um século, pra encontrar um emprego. 😡😡😡😡😡😡",2020-10-25 16:36:18,pt,,0.0,0.0,,BH Bruno Engler 28 Nikolas Ferreira 28000,"O problema do brasileiro é viver stalkeando quem pensa diferente, enquanto os próprios amigos são ignorados e esquecidos.",2501.0,1770.0,1278.0,2707.0,1.0,False,,,@certobh
+"Escravidão pré Lei Áurea era negros sendo espancados,produzindo até a morte.
+Escravidão pós Lei Áurea é negros recebendo menos, passando necessidades básica, sendo perseguidos pela polícia,d maioria negra,onde a casa do branco deve ser guardada e a cidadania dos negros, violada !",2020-10-25 16:35:13,pt,,5.0,1.0,,Karl Marx🇵🇸,"""A história da sociedade até aos nossos dias é a história da luta de classes""
+  AOS CORRUPTOS DESEJO POBREZA E VIDA LONGA !!!🇵🇸",5456.0,69.0,3406.0,18091.0,48.0,False,,,@Karl_Marx_br
+"@otempo Os restaurantes dos shoppings estão todos fechados hoje, por ordem do Kalil. E assim que ele quer ajudar?",2020-10-25 16:34:17,pt,,0.0,0.0,@otempo,adilson selim,"Advogado administrativista, ubuntu user e amante da boa música.",34.0,2.0,37.0,4.0,0.0,False,,,@ajoselim
+"@leo_koury @ptbrasil @GuilhermeBoulos @psol50 @dasilvabenedita Resultado dos sonhos! 
+Bené no Rio, Boulos em São Paulo, Manu em Porto Algre, Áurea aqui em Belô! 
+
+Ah,  Kamala/Biden nos EUA também...",2020-10-25 16:34:12,pt,,1.0,0.0,@leo_koury,"Léia 🇧🇷 JustiçaSocial, DireitosHumanos","Nascida nos idos de 72:
+menina, mulher e mãe depois.
+Servidora pública com formação 
+na Escola de Governo - a Fundação.
+Rimas pobres? 
+Propósitos nobres!",1608.0,4435.0,127.0,33.0,0.0,False,,,@Lia36880539
+"@vilela_aurea @oporravictorr @marcosmion Pq a Nadja foi a protagonista da edição, e o Rafael fazia parte do grupinho da Nadja, como ela foi expulsa.. então ele ficou com o público que estava cm a Nadja",2020-10-25 16:33:39,pt,,0.0,0.0,@vilela_aurea,🄱🄸🄴🄻,• RJ | 021 • MENGÃO ❤️🖤🙅🏻‍♂️ • 12/01 🎉 • rotulado como debochado e sínico • Amo Astronomia ❤️🔭 •,115.0,791.0,31.0,26.0,0.0,False,,,@BielBezerra__
+"Dois meses pra mostrar resultado. 
+Áurea tá 🔛✔️",2020-10-25 16:32:05,pt,,0.0,0.0,,taruhermana 🌈,"Ah, não, você me dizendo como devo me comportar? Isso não cabe a ninguém, eu não me importo com o que você pensa.",7501.0,361.0,549.0,738.0,1.0,False,,,@pqeudisseque
+"Kalil cobra deferimento de sua candidatura: ""parado há 30 dias sem qualquer andamento"" https://t.co/ysunKScuFF",2020-10-25 16:31:10,pt,,0.0,0.0,,VG Notícias,Portal de Notícias - Prazer em Informar!,77772.0,21.0,219.0,4242.0,28.0,False,,,@VGNoticias
+"@PaoloXavier @Poder360 @jairbolsonaro @LulaOficial @BrunoEnglerDM Kalil, é atleticano votando, ai fica facil. rs.",2020-10-25 16:31:01,pt,,1.0,0.0,@PaoloXavier,Sergio Nakamura,,4955.0,7464.0,45.0,54.0,0.0,False,,,@NakaBlog
+@malubaatista Eu tbmm! Eu mato o Kalil véi de vdd,2020-10-25 16:28:12,pt,,0.0,0.0,@malubaatista,clarinha,,2145.0,4778.0,62.0,68.0,0.0,False,,,@claraba_
+@velosipede Voa mlkkkk,2020-10-25 16:28:06,pt,,0.0,0.0,@velosipede,kamarada,You know I read it in a magazine,4529.0,24690.0,226.0,180.0,2.0,False,,,@kalil_pz
+"@RenanSantosMBL Em BH é outro candidato de esquerda paparicado pela imprensa, o Kalil. E olha que o cara foi muito ruim.",2020-10-25 16:25:54,pt,,0.0,0.0,@RenanSantosMBL,Fabrício Lopes,"Não respondo a perfis Fake, pois covarde tem que falar sozinho. I don't reply to Fake profiles, because cowards don't deserve my attention.",2694.0,7327.0,118.0,24.0,0.0,False,,,@Fabriciocalopes
+"Pensei sobre os candidatos a prefeito de BH:
+- Bruno Engler: imaturo.
+- João Vítor Xavier: Cidadania! O fundador é o comunista Roberto Freire. Sem chance!
+- Kalil: ligado ao PT, trancou todo mundo em casa. 
+- @PaivaNOVO: iniciativa privada. Novo, ligado a Zema. Vou votar nele.",2020-10-25 16:25:24,pt,,3.0,0.0,,⚜Cynthia 🇧🇷🇺🇸🇮🇱,"Mãe, patriota, direita. Brasil acima de tudo e D’us acima de todos.",9147.0,17243.0,1011.0,1944.0,2.0,False,,,@cygutlungen
+"Domingo tem uma áurea esquisita
+
+Haja incenso",2020-10-25 16:24:55,pt,,0.0,0.0,,habitante do planeta errado🧘🏻‍♀️,"Meditando ... 🧘🏻‍♀️ ♑👽Capricórniana! transbordando sentimentos, Não disse quais....😈🧐",45593.0,76892.0,571.0,408.0,2.0,False,,,@putzjessyh_
+@DanielAmaralCEC Kalil é franga né? Fez nada em BH.,2020-10-25 16:20:12,pt,,0.0,0.0,@DanielAmaralCEC,VortemospraMarte,Existe uma grande possibilidade de uma vida absolutamente melhor. Sem necessidade de uma viagem espacial. A  fração de terra é a tua vida.,32313.0,39951.0,3918.0,3896.0,3.0,False,,,@Matthriguex
+@kalil_emanuel eu deixo tu jogar aqui no campo,2020-10-25 16:18:34,pt,,1.0,0.0,@kalil_emanuel,Boiola,fisicamente e psicologicamente fodida,6034.0,7760.0,797.0,1053.0,0.0,False,,,@Vetorea_toria
+@xjwbz vc é casada com a aurea já,2020-10-25 16:17:41,pt,,0.0,0.0,@xjwbz,mavi,just like medusa,7628.0,14333.0,338.0,369.0,0.0,False,,,@salutxv
+"Revelação sem dúvidas foi o bim, e o destaque o Borges essa lei áurea parou tudo",2020-10-25 16:17:33,pt,,0.0,0.0,@cabelinhorss_,RL 😡🚩,"minha estrela mais linda do céu @araujocamile_ ⭐♥️
+@cabelinhomc 15/07/2015😍",136262.0,58465.0,816.0,1443.0,0.0,False,,,@cabelinhorss_
+Só queria um fut pra poder relaxar 😓,2020-10-25 16:17:15,pt,,1.0,0.0,,gordão🦈,Guajará Mirim/RO 17y,62.0,112.0,176.0,133.0,0.0,False,,,@kalil_emanuel
+Eu amanhã 6hrs da manhã https://t.co/hksVyNldPp,2020-10-25 16:15:47,pt,,3.0,1.0,,moarmy,BTS & TXT 💜,6459.0,23194.0,1355.0,635.0,0.0,False,,,@aurea___
+"@solsedgwick amorim teu priquito 
+AUREA EH UM NOME LINDO",2020-10-25 16:15:46,pt,,0.0,0.0,@solsedgwick,astra,"monkey d. luffy • @dearfenrys • @arttsamson • @gushawtorne • @srtacorvere
+{ela/dela}",80207.0,40054.0,2964.0,3431.0,27.0,False,,,@favebyun
+@soobincomics @Caaning Eu Não posso com isso,2020-10-25 16:13:48,pt,,1.0,0.0,@soobincomics,moarmy,BTS & TXT 💜,6459.0,23194.0,1355.0,635.0,0.0,False,,,@aurea___
+"@FAIRYK4I @TXT_members Taehyun você vai ser meu pitico pra sempre, é isso, não abro mao",2020-10-25 16:12:35,pt,,2.0,0.0,@FAIRYK4I,moarmy,BTS & TXT 💜,6459.0,23194.0,1355.0,635.0,0.0,False,,,@aurea___
+"@FAIRYK4I @TXT_members Mas vocês são meus bebês, eu não aceito essa informação",2020-10-25 16:12:05,pt,,5.0,0.0,@FAIRYK4I,moarmy,BTS & TXT 💜,6459.0,23194.0,1355.0,635.0,0.0,False,,,@aurea___
+@FAIRYK4I @TXT_members Nasceram um dia desse e já estão assim??,2020-10-25 16:11:36,pt,,1.0,0.0,@FAIRYK4I,moarmy,BTS & TXT 💜,6459.0,23194.0,1355.0,635.0,0.0,False,,,@aurea___
+"@DanielAmaralCEC Nenhum dos 4  , desses a menos pior é Sra Áurea Carolina mas prá daqui a 4 anos",2020-10-25 16:10:31,pt,,2.0,0.0,@DanielAmaralCEC,Luiz Sérgio,,2887.0,28980.0,226.0,87.0,0.0,False,,,@LSSMelo71
+"@__heysas proporção áurea é mesmo perfeita, dá até pra elogiar uma bunda",2020-10-25 16:09:26,pt,,1.0,0.0,@__heysas,Dansexual🎃 •,🛹🛹🛹 só quem é radical segue🛹🛹🛹,4351.0,23022.0,1436.0,355.0,1.0,False,,,@Dandaroo1
+@solsedgwick amg as pessoas tem o costume de te chamar de aurea onde vc mora?,2020-10-25 16:09:22,pt,,0.0,0.0,@solsedgwick,astra,"monkey d. luffy • @dearfenrys • @arttsamson • @gushawtorne • @srtacorvere
+{ela/dela}",80207.0,40054.0,2964.0,3431.0,27.0,False,,,@favebyun
+O cara não vota no Kalil por causa de time tem que ser burro!!!,2020-10-25 16:08:41,pt,,4.0,1.0,,Thairone,"Filho de Obaluaê/Iemanjá ♥
+@Cruzeiro 💙
+Insta: @Thairone_Ribeiro (Link ⬇️)",7895.0,7118.0,881.0,175.0,1.0,False,,,@ThaironeCEC
+@michleszinha @jessytuita Amém foco força e fé https://t.co/g8jDKQZiTo,2020-10-25 16:08:20,pt,,1.0,0.0,@michleszinha,Aurea Cristina Brandao Leal,SEJA VOCÊ A SUA PAZ🍀,61.0,52.0,72.0,5.0,0.0,False,,,@aurea_b4
+"@fk_eduardo @certohenrique @gduvivier @thomazsplr 30%? kkkkk Pesquise, deixe da conversa fiada e pesquise a aprovação de ACM e Kalil. Kalil inclusive vai se reeleger no primeiro turno. E só pra deixar claro, se vc puxar meu feed, vai ver eu fazendo duras críticas a possível aliança com o DEM, mas ressaltando ACM é excessão.",2020-10-25 16:08:06,pt,,0.0,0.0,@fk_eduardo,Wesley Fonseca 🇧🇷🌹💚🕊️,"Administrador, Rubro Negro, diretor de Embaixada @FlaFortal. Centrista #Ciro2022 🇧🇷🌹",7590.0,30289.0,267.0,353.0,3.0,False,,,@WesleyAf06
+tem 3 integrantes do ** que eu NUNCA fui com a cara pq sempre me passava uma áurea de antipática e que se acha superior. E não é que acertei 1 rs,2020-10-25 16:07:42,pt,,0.0,0.0,,bee,my love for jimin and jungkook is bigger than my strap,5574.0,10423.0,113.0,24.0,0.0,False,,,@nochueki
+"Jogo 18 horas de um domingo deveria ser crime,tnc cbf",2020-10-25 16:05:06,pt,,7.0,0.0,,Trust the Process 🇺🇾,"Botafoguense y Laziale, as vezes me meto no Hertha.
+
+@BeloScouts31 , @AnalisesMj y @_taticalizando
+
+kalilmacedo77@gmail.com",3206.0,16337.0,122.0,167.0,1.0,False,,,@kalil_macedo02
+@realitylizalavi @jessytuita Já deu certo!!! https://t.co/L2xyj93MPG,2020-10-25 16:04:16,pt,,0.0,0.0,@realitylizalavi,Aurea Cristina Brandao Leal,SEJA VOCÊ A SUA PAZ🍀,61.0,52.0,72.0,5.0,0.0,False,,,@aurea_b4
+"A primeira vitória do dia já foi, resta esperar o time agora",2020-10-25 16:03:57,pt,,7.0,2.0,,Trust the Process 🇺🇾,"Botafoguense y Laziale, as vezes me meto no Hertha.
+
+@BeloScouts31 , @AnalisesMj y @_taticalizando
+
+kalilmacedo77@gmail.com",3206.0,16337.0,122.0,167.0,1.0,False,,,@kalil_macedo02
+"@oatila Aq em BH, o retrato do Kalil fechou a cidade precocemente; quebrou uma cacetada de comércio, desempregou milhares e, no final das contas, liberou a circulação do povo no momento do pico. Oq aconteceu? Os casos caem a cada semana e os leitos destinados para covid estão ociosos.",2020-10-25 16:02:54,pt,,0.0,0.0,@oatila,🇧🇷Rodrigo Lima🇧🇷,,2971.0,5197.0,335.0,18.0,0.0,False,,,@RodrigodeMeloL2
+@diphylleia_Skye @Dandaroo1 @tododiagostosa Bunda Áurea,2020-10-25 16:02:32,pt,,0.0,0.0,@diphylleia_Skye,Kaprenel,logia,137.0,129.0,80.0,24.0,0.0,False,,,@KpreJ
+Vai tomar no cu feio https://t.co/NDuFT4JK3N,2020-10-25 16:02:07,pt,,7.0,0.0,,kamarada,You know I read it in a magazine,4529.0,24690.0,226.0,180.0,2.0,False,,,@kalil_pz
+"@fk_eduardo @certohenrique @gduvivier @thomazsplr Pergunta pro pessoal de Salvador e BH  o q eles acham do ACM Neto, Kalil. Dá um Google e ver o q as pesquisas mostram de aprovação desses prefeitos e me diz se ""é pq o mito indicou"". Quanto ao França, é o melhor nome para SP. Montezuma não sei quem é.",2020-10-25 16:01:52,pt,,1.0,0.0,@fk_eduardo,Wesley Fonseca 🇧🇷🌹💚🕊️,"Administrador, Rubro Negro, diretor de Embaixada @FlaFortal. Centrista #Ciro2022 🇧🇷🌹",7590.0,30289.0,267.0,353.0,3.0,False,,,@WesleyAf06
+@joapcm Já e tarde demais pra parar,2020-10-25 16:01:33,pt,,0.0,0.0,@joapcm,kamarada,You know I read it in a magazine,4529.0,24690.0,226.0,180.0,2.0,False,,,@kalil_pz
+É horrível a pessoa falar uma coisa para vc e outra para os outros na sua cara ainda,2020-10-25 16:01:25,pt,,0.0,0.0,,JuLLia,𝟷8 𝚢 || 💙🦋|| 𝚃𝚊𝚞𝚛𝚒𝚗𝚊 ♉️|| @𝚏𝚕𝚊𝚖𝚎𝚗𝚐𝚘 🔴⚫️|| 𝚂𝚌𝚘𝚞𝚝 ⚜️ || 𝙰𝚌𝚊𝚒 😋 ||,17006.0,8669.0,488.0,724.0,0.0,False,,,@Kalil_Jullia
+"E mais um dia tendo que quebrar a cara para ver que vc nunca pode ser 100% verdadeiro, pq se vc for vc é ruim",2020-10-25 16:01:02,pt,,0.0,0.0,,JuLLia,𝟷8 𝚢 || 💙🦋|| 𝚃𝚊𝚞𝚛𝚒𝚗𝚊 ♉️|| @𝚏𝚕𝚊𝚖𝚎𝚗𝚐𝚘 🔴⚫️|| 𝚂𝚌𝚘𝚞𝚝 ⚜️ || 𝙰𝚌𝚊𝚒 😋 ||,17006.0,8669.0,488.0,724.0,0.0,False,,,@Kalil_Jullia
+"Alô cruzeirense o Kalil não pode dirigir essa cidade,ele já declarou q a felicidade dele é destruir o @Cruzeiro , cruzeirense de verdade não pode votar nesse verme pra prefeito!
+O vídeo dele falando q a intenção dele é destruir o @Cruzeiro t na minha linha temporal,dá uma olhdada https://t.co/mGR2RJyhou",2020-10-25 16:01:01,pt,,13.0,3.0,,diamante azul,raposa+raposa=cruzeiro cabuloso!!!,6021.0,4190.0,3292.0,1657.0,0.0,False,,,@diamante_gil
+"@_anormie_people @mairaketh Odeie ou ame Kalil 
+Mas ele cuspiu fatos",2020-10-25 15:59:09,pt,,0.0,0.0,@_anormie_people,jonias,"não me subestimem pelas besteira que falo aqui, eu falo umas coisas interessantes e bem pensadas as vezes  //",15755.0,37828.0,812.0,237.0,0.0,False,,,@joszln
+@nikolas_dm Falta 22 dias para o Kalil ser eleito no primeiro turno!,2020-10-25 15:58:24,pt,,0.0,0.0,@nikolas_dm,Riuler Soares,,45.0,44.0,6.0,1.0,0.0,False,,,@riuler_soares
+"Pessoal de Belo Horizonte, vamos ENDIREITAR BH, BRUNO ENGLER 28! 👊 https://t.co/f5XgvYpdTl",2020-10-25 15:58:10,pt,,1.0,0.0,,Flávio Andrade - @favirafilmes🇧🇷,"Existe apenas Um Deus e Seu Nome é: SENHOR JESUS CRISTO! Simples assim.
+Sou Fã do @tercalivretv
+Ps.: Faço filmes de casamentos. Conheça meu instagram 😁👇",1413.0,5689.0,122.0,48.0,0.0,False,,,@flavioar_edit
+"Kalil,está a dias fazendo a dança do Sol,pra ver se as chuvas não levam seus votos na enxurrada rsrs....#BrunoEngler28 @alexandrekalil @BrunoEnglerDM",2020-10-25 15:56:14,pt,,0.0,0.0,,Janna Fabbrini®🗽,De costas para escuridão e de frente para a LUZ!,8962.0,4326.0,2362.0,1529.0,0.0,False,,,@jannafabrini
+@DanielAmaralCEC esses 4 não dão metade do kalil kkkkkkkkkk infelizmente,2020-10-25 15:54:27,pt,,3.0,0.0,@DanielAmaralCEC,miliciAna do bem,cruzeiro & real madrid,98151.0,85139.0,595.0,3220.0,2.0,False,,,@milicianacx
+"nao to suportando me tocar, nao to suportando a minha energia, a minha aurea, nao to suportando o meu corpo, a minha voz e nada doq eu to sentindo. Quero desgrudar do meu corpo de vez e acabar logo com isso.",2020-10-25 15:53:46,pt,,0.0,0.0,,Adriane Davenport Jr 📚,ela/dela  she/her,40486.0,51259.0,1277.0,1151.0,2.0,False,,,@lsdri_
+@paulinhacoelho5 Exatamente!,2020-10-25 15:52:34,pt,,1.0,0.0,@paulinhacoelho5,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+Vem de Áurea galera!!! https://t.co/P0ZZOx0WzF,2020-10-25 15:51:27,pt,,0.0,0.0,,Na raba toma tapão,BH,12257.0,18139.0,878.0,652.0,0.0,False,,,@biieldreeis
+"@amandaabz_ Baleia azul são umas pessoas que conseguem contatos de crianças e incentivam elas a fazerem coisas erradas, como por exemplo se mutilar..",2020-10-25 15:51:20,pt,,1.0,0.0,@amandaabz_,Aline Áurea 🎀,@MileyCyrus 👑 C.E.C 🦊💙 Medicina Veterinária 🐶🦁🐰🐮🐵🐥🐴🐯🐼🐻🐷🐹🐱💞,1218.0,4361.0,149.0,43.0,0.0,False,,,@Aliine_Aurea
+Seria pedir demais Áurea Carolina prefeita?? Eu acho q o belorizontino já sofreu demais e merece pelo menos essa conquista,2020-10-25 15:51:19,pt,,2.0,0.0,,bells,cheia dos problemas de atitude,28245.0,50107.0,217.0,415.0,3.0,False,,,@isa_sousam
+"Todos sabem que sou anti Kalil em todos os sentidos cruzeirísticos, além dele ter feito uma gestão de merda na capital.
+
+Minha pergunta é para os Cruzeirenses, pra gente se organizar, em quem vamos votar?",2020-10-25 15:50:44,pt,BR,16.0,7.0,,Daniel Amaral,Um Cruzeirense graduando em Jornalismo 5/8...,48271.0,36468.0,3120.0,3842.0,4.0,False,,,@DanielAmaralCEC
+@danda_comenta Nem o Juliano,2020-10-25 15:50:24,pt,,1.0,0.0,@danda_comenta,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+GENTE PELO AMOR VOCÊS ERAM APENAS BEBÊS A ERA CROWN FOI ONTEM O QIE TÁ ACONTECENDO???????? https://t.co/OMXRH4rNDu,2020-10-25 15:48:59,pt,,4.0,0.0,,moarmy,BTS & TXT 💜,6459.0,23194.0,1355.0,635.0,0.0,False,,,@aurea___
+@great_humorr Ódio disso,2020-10-25 15:48:58,pt,,1.0,0.0,@great_humorr,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+"@GilneiBorba @mdamascenojr Vai catar coquinho, cara. Tu nem mora aqui. Não sabe a humilhação que o Kalil submete o movimento Tarifa Zero, só porque não cumpriu o que prometeu em campanha, ou estrago que ele fez na educação infantil.",2020-10-25 15:48:41,pt,,0.0,0.0,@GilneiBorba,Natanael,Dando minha opinião enquanto tento sobreviver em meio a essa rede. Meio merda? Com certeza. Prometo melhorar quando for minha lápide. Ele/Dele,824.0,6657.0,721.0,12.0,0.0,False,,,@TaelGomes
+@Viiihhhhhhhhhhh Lidi perfeita de salto 😍,2020-10-25 15:47:17,pt,,0.0,0.0,@Viiihhhhhhhhhhh,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+@Joelma @afazendarecord Joelma vc é a melhor 🤩,2020-10-25 15:43:31,pt,,0.0,0.0,@Joelma,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+Os candidatos a prefeito tão fazendo o mesmo que João Leite fez: esqueceu de fazer campanha e focaram em atacar o Kalil. Vai ganhar fácil de novo.,2020-10-25 15:43:21,pt,,2.0,1.0,,Bruno Jales 🇮🇹🇭🇳,"Cruzeiro, és minha vida, meu orgulho, minha alegria..💙 
+
+                                                                            💏 ❤: @ColenMylena",14511.0,18150.0,1798.0,2123.0,2.0,False,,,@BrunoJales1921
+"@mdamascenojr @GilneiBorba Mas já que você tocou em nulo: Não pensaria em votar duas vezes pra barrar o João Bolsovitor Xavier, que vende a tragédia de Brumadinho como campanha. Talvez seja a situação aí do Rio, com o Crivela, Paes e Martha, embora acredito que ela ainda esteja à esquerda do Kalil.",2020-10-25 15:43:20,pt,,0.0,0.0,@TaelGomes,Natanael,Dando minha opinião enquanto tento sobreviver em meio a essa rede. Meio merda? Com certeza. Prometo melhorar quando for minha lápide. Ele/Dele,824.0,6657.0,721.0,12.0,0.0,False,,,@TaelGomes
+Não faz o menos sentido ter essa quantidade de impostos nos games! https://t.co/cuCgQpYHKI,2020-10-25 15:43:15,pt,,0.0,0.0,,𝕾𝖕𝖔𝖔𝖐𝖄✴️,,1124.0,3212.0,321.0,110.0,0.0,False,,,@kalil_castro
+"@marcosmion Tem mais comercial que programa, vcs tem que arrumar issoooo",2020-10-25 15:42:42,pt,,0.0,0.0,@marcosmion,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+Pq q esse povo odeia o Kalil?gradei tanto do trabalho que ele fez,2020-10-25 15:42:16,pt,,0.0,0.0,,Alves 🔥,"•Na A ou na B,maior do que você, @Cruzeiro🦊💙",13525.0,18727.0,93.0,180.0,0.0,False,,,@Alves_Gouveia16
+@marcosmion Jojo a melhor kkkk,2020-10-25 15:42:09,pt,,0.0,0.0,@marcosmion,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+Luísa Barreto faz caminhada na Cabana do Pai Tomás para ouvir comerciantes https://t.co/6JBNe29fxv,2020-10-25 15:41:17,pt,,3.0,0.0,,O Tempo,"Perfil oficial do jornal O Tempo, de Belo Horizonte, Minas Gerais.",358675.0,2042.0,63.0,353166.0,899.0,True,,,@otempo
+"@mdamascenojr @GilneiBorba O PDT e a REDE aqui apoiaram o Kalil, que fez sim um ótimo controle da pandemia ouvindo especialistas, mas tá longe de ser alguém de esquerda. É um centrista tecnocrata. Provavelmente, assim como o PSD do Kassab, apoiará o Dória em 2022. Mas deixa a militância cirista acreditar..",2020-10-25 15:40:50,pt,,0.0,0.0,@mdamascenojr,Natanael,Dando minha opinião enquanto tento sobreviver em meio a essa rede. Meio merda? Com certeza. Prometo melhorar quando for minha lápide. Ele/Dele,824.0,6657.0,721.0,12.0,0.0,False,,,@TaelGomes
+"@marcosmion Mion fala no ao vivo sobre os sinais que Luiza ia mandar para Mirella, isso não pode passar despercebido",2020-10-25 15:40:44,pt,,1.0,0.0,@marcosmion,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+no dia eu ouço lei aurea do borges umas 3x no minimo,2020-10-25 15:40:41,pt,,0.0,0.0,,miguelzin,"027 -  📸 - miguelssoares_ 
+
+📚✏ Ed. Física - UniSales
+
+@Flamengo",26451.0,18032.0,772.0,1037.0,0.0,False,,,@Miguelssoares7
+Eu estou sozinha nessa vida mesmo,2020-10-25 15:40:34,pt,,0.0,0.0,,JuLLia,𝟷8 𝚢 || 💙🦋|| 𝚃𝚊𝚞𝚛𝚒𝚗𝚊 ♉️|| @𝚏𝚕𝚊𝚖𝚎𝚗𝚐𝚘 🔴⚫️|| 𝚂𝚌𝚘𝚞𝚝 ⚜️ || 𝙰𝚌𝚊𝚒 😋 ||,17006.0,8669.0,488.0,724.0,0.0,False,,,@Kalil_Jullia
+"kalil mudou minha vida, depois que ele colocou ar condicionado nos ônibus pqp, nunca fui pra escola tão feliz",2020-10-25 15:40:22,pt,,1.0,0.0,,theo,ceo: @chadefitacast | já houveram piores 💕 @yaskgay @atletico,23345.0,40009.0,353.0,436.0,4.0,False,,,@theozecas
+"@oporravictorr @marcosmion Caramba não sabia que a Gabi fez a fazenda, e não entendo pq esse cara ganhou parecia ser escroto tbm kkk",2020-10-25 15:39:09,pt,,4.0,0.0,@oporravictorr,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+"@TaelGomes @GilneiBorba Vou votar na Benedita. Mas se o segundo turno fosse entre Martha e Paes, anularia. Mas a campanha tá rolando, e quero ser convencido de que a Martha é uma opção. Em BH seria Áurea tbm, mas a situação aí parece definida, infelizmente...",2020-10-25 15:37:42,pt,,0.0,0.0,@TaelGomes,Maur,,4530.0,2437.0,228.0,100.0,0.0,False,,,@mdamascenojr
+"Gente, tem umas pessoas que tem uma áurea tão pesada que não dá nem pra ficar perto",2020-10-25 15:37:13,pt,,0.0,0.0,,A_trouxa,Sou a doida que só quer uma casinha pra chamar de sua e que é amante da praia 😊,803.0,1707.0,132.0,50.0,0.0,False,,,@Elliedoedu
+@KellyTe65388021 Eu quero muito que isso aconteça kkkkkk,2020-10-25 15:35:05,pt,,1.0,0.0,@KellyTe65388021,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+amor se vc ta vendo esse tt eu fui no reviver com Kalil e se eu não te responder é pq eu to sendo um homem fiel e responsável e sem bateria no celular pra te avisar bj amo vc,2020-10-25 15:34:19,pt,,5.0,0.0,,pitbull de raça,"vestido com as roupas e as armas de Jorge,carregado de axé sou soldado de Ogum",5293.0,4678.0,275.0,229.0,1.0,False,,,@gustavoemanwel
+@vdalvocamillo Ponte Áurea,2020-10-25 15:33:46,pt,,1.0,0.0,@vdalvocamillo,Octávio Cerdeira,Carpe diem,45588.0,42363.0,1733.0,1236.0,10.0,False,,,@oa3c_
+"@oxecomenta Poxa eu perdi, obrigada",2020-10-25 15:33:36,pt,,0.0,0.0,@oxecomenta,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+"BH 24/10: Kalil se consolida em primeiro lugar, com a menor rejeição dentre os postulantes. O governador Romeu Zema demonstrar fraqueza na capital do estado que governa, com seu candidato pontuando perto de 1%. Kalil deve ser reeleito já no próxima dia 15. https://t.co/qTXKbDXIaa",2020-10-25 15:33:24,pt,,2.0,0.0,@jonismvb,MARCONEX,"22 anos
+taurino
+futuro advogado 📖",23227.0,20776.0,302.0,368.0,0.0,False,,,@jonismvb
+@vilela_aurea Hoje de manhã!,2020-10-25 15:33:14,pt,,2.0,0.0,@vilela_aurea,m. 🐇,sundin ang puso. | @acasaoutof,8574.0,12757.0,389.0,405.0,0.0,False,,,@oxecomenta
+@oxecomenta Isso foi quando ?,2020-10-25 15:32:58,pt,,0.0,0.0,@oxecomenta,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+Torcedor q odeia o Kalil pq ele é atleticano é tão zZzzZz,2020-10-25 15:29:40,pt,,0.0,0.0,,Nome não pode ficar em branco,.,9229.0,30055.0,740.0,778.0,0.0,False,,,@MeDaUmaLaranja
+@yandarax E pq as autoridades não fazem algo? Tem que colocar ela em um lugar bem maior que esse,2020-10-25 15:29:30,pt,,0.0,0.0,@yandarax,Aurea Vilela,,594.0,2292.0,87.0,9.0,0.0,False,,,@vilela_aurea
+"@mdamascenojr @GilneiBorba Mas é aquilo, Martha teria o meu voto em um eventual 2º turno, contra o Paes ou o Crivela. No 1ºT provavelmente votaria na Renata, assim como vou votar na Áurea aqui em BH.",2020-10-25 15:29:09,pt,,1.0,0.0,@TaelGomes,Natanael,Dando minha opinião enquanto tento sobreviver em meio a essa rede. Meio merda? Com certeza. Prometo melhorar quando for minha lápide. Ele/Dele,824.0,6657.0,721.0,12.0,0.0,False,,,@TaelGomes
+"Kalil jamais, um hipocrita populista e mal caráter.
+
+João Vitor Xavier é aquele cara q jamais vou confiar.
+
+Para prefeito vou de @PaivaNOVO.
+
+Mantenho minha coerência, como ocorria com Romeu Zema quando sequer aparecia nas pesquisas e hoje é o melhor governador!
+
+Eu vou de NOVO!",2020-10-25 15:28:46,pt,,1.0,1.0,,Leandro Amaral,Administrador / Especialista em Meios de Pagamento e Crédito / CRUZEIRO / Inovação / Gestão / Gerente Comercial / _X_,5172.0,5794.0,191.0,532.0,1.0,False,,,@leandroamaralbh
+"@edsilveira3 @caio_npimenta DEM e PSD, que não são bons, mas não tem ideologia definida. São centrão. PSD seria por causa do Kalil.
+O DEM, imagino que para ganhar palanque em vários estados e tempo de TV.",2020-10-25 15:25:32,pt,,2.0,0.0,@edsilveira3,Ciro Prado 🇧🇷 🌹🕊️💚 🔴⚫,#DelegadaMarthaRocha12,28867.0,43432.0,3822.0,3377.0,12.0,False,,,@meupaiseursal
+@Caiqfelix @GilbertoPozar @bbcbrasil Exatamente. E cada vez mais os políticos têm uma áurea de celebridade. É muito perigoso vê-los assim porque as responsabilidades deles são imensamente maiores do que o entretenimento,2020-10-25 15:24:37,pt,,1.0,0.0,@Caiqfelix,deus abençoe millie bobby brown,will i ever find myself #protectmilliebobbybrown,18834.0,3429.0,879.0,191.0,4.0,False,,,@neeuskens
+@kateclvrk Desculpa n sou afabetizado,2020-10-25 15:22:05,pt,,0.0,0.0,@kateclvrk,kamarada,You know I read it in a magazine,4529.0,24690.0,226.0,180.0,2.0,False,,,@kalil_pz
+"O seu CEP, a cor da sua pele e o crespo do seu cabelo não podem determinar seu acesso a direitos e oportunidades. Ontem estivemos no Barreiro com @aureacarolinax e, apesar da chuva, fortalecemos o nosso compromisso com a periferia no centro do orçamento!
+https://t.co/CTZK51GElo",2020-10-25 15:22:04,pt,,72.0,9.0,,Iza Lourença 50099,Mãe da Ana e candidata a vereadora em Belo Horizonte pelo @psol50 e @asMuitas. Mulheres negras não param de lutar! ☀️✊🏾 Me adiciona no Zap? Clica no link!,2692.0,4123.0,2479.0,4720.0,14.0,False,,,@Izalourenca
+"@Paradoxurbano @tatunotoco Tudo caminhando pra que seja essa, mas não sei se o kalil iria aceitar, ele é muito certo nisso de terminar o mandato. Mas quer saber uma coisa? Seria legal ter uma chapa dessas com o Ciro de vice, acho que potencializaria a chapa igual na Argentina e Bolívia",2020-10-25 15:21:59,pt,,1.0,0.0,@Paradoxurbano,Raoni Santos 🚜 🌹 🇧🇷🇺🇳,Estudante Engenharia Ambiental,6475.0,28186.0,612.0,239.0,1.0,False,,,@NinhoRaah
+@kalil_pz “esta” você usa -a como pronome? não sabia!,2020-10-25 15:21:35,pt,,0.0,0.0,@kalil_pz,julıα. ☕️,❝ love ıs ırrelevαnt for people lıke us ⌕ a/ela/-a,6488.0,6235.0,419.0,343.0,6.0,False,,,@kateclvrk
+@tatunotoco @CiroProg Kalil deveria dominar a sigla e recuperar ela,2020-10-25 15:20:33,pt,,0.0,0.0,@tatunotoco,Raoni Santos 🚜 🌹 🇧🇷🇺🇳,Estudante Engenharia Ambiental,6475.0,28186.0,612.0,239.0,1.0,False,,,@NinhoRaah
+"@lincoln_souto @ge_galo Sim. Está está muito difícil a vida dos passadores de pano do Sette-Fracassos e do treinador superestimado que só tem 2 títulos em toda carreira.
+Mas, eu tenho a consciência tranquila, pois eu nunca apoiei essa quadrilha que assumiu o GALO após a saída do Kalil. 
+Vote no #Kalil55",2020-10-25 15:19:48,pt,,1.0,0.0,@lincoln_souto,Remus Jr - O corneta mais odiado está de volta!,"➡️Corneta 📢 Oficial do GALO 🐓 
+➡️Torcedor do único time de MG na Série 🅰️
+AQUI É GALO!!!!
+➡️ #ForaSetteCâmara
+➡️#Kalil55
+➡️#Bolsonaro2022",55.0,10.0,158.0,1.0,0.0,False,,,@remuspjrr
+"@DiegoRi42010436 Kalil é foda, ta doido???",2020-10-25 15:19:37,pt,,0.0,0.0,@DiegoRi42010436,Caio Pimenta 🇧🇷🌹 Márcio França 40 SP,"Juventude Socialista PDT-SP, Trabalhista🌹 Patrióta e Nacionalista 🇧🇷 #Ciro2022 https://t.co/O2F9AW9aai",3522.0,6813.0,3503.0,2125.0,8.0,False,,,@caio_npimenta
+Acho que vou tomar um café e colar até o Vila Áurea assistir esse jogão de logo menos,2020-10-25 15:19:23,pt,,0.0,0.0,,I G,de rolê pelo meu mundo de olho na vida.      @SantosFc,72762.0,15581.0,1082.0,1916.0,2.0,False,,,@_porrapeixe
+@toscaninh4 Kk que pena vai cozinhar,2020-10-25 15:18:42,pt,,0.0,0.0,@toscaninh4,Trust the Process 🇺🇾,"Botafoguense y Laziale, as vezes me meto no Hertha.
+
+@BeloScouts31 , @AnalisesMj y @_taticalizando
+
+kalilmacedo77@gmail.com",3206.0,16337.0,122.0,167.0,1.0,False,,,@kalil_macedo02
+"Meu amigo,eu acordei e do nada Orlando desistiu e quer fazer um acordo com a oposição? Que porra tá acontecendo hein? Alguém sabe me explicar?",2020-10-25 15:18:21,pt,,4.0,0.0,,Trust the Process 🇺🇾,"Botafoguense y Laziale, as vezes me meto no Hertha.
+
+@BeloScouts31 , @AnalisesMj y @_taticalizando
+
+kalilmacedo77@gmail.com",3206.0,16337.0,122.0,167.0,1.0,False,,,@kalil_macedo02
+"@mirorrboll Recomendo que leia sobre a antiga guarda negra. Uma união de negros recém libertos e monarquistas, dispostos a lutar pela monarquia e lei áurea. É a maior prova de que não são jovens modinhas que são a excência do movimento.",2020-10-25 15:16:31,pt,,0.0,0.0,@mirorrboll,GNR - Guarda Negra da Redentora,"A favor da Fé, Esperança e Amor. Contra o republicanismo e preconceito.
+
+Atual Chefe-Geral: @hanielvieira5 
+
+Faça parte de nós:",332.0,162.0,188.0,89.0,0.0,False,,,@GuardaNegra
+"Marcos Martins não é uma perda tão grande,Diego Rosa vai fazer falta,vinha dando muito volume de jogo pela esquerda https://t.co/mZM8fVbFpC",2020-10-25 15:13:05,pt,,0.0,0.0,,Trust the Process 🇺🇾,"Botafoguense y Laziale, as vezes me meto no Hertha.
+
+@BeloScouts31 , @AnalisesMj y @_taticalizando
+
+kalilmacedo77@gmail.com",3206.0,16337.0,122.0,167.0,1.0,False,,,@kalil_macedo02
+"Eu votaria no Gustavo!Mas como sou de BH,vou votar no 28 do Bruno Engler https://t.co/EupyAHr1Ww",2020-10-25 15:10:23,pt,,11.0,4.0,,Janna Fabbrini®🗽,De costas para escuridão e de frente para a LUZ!,8962.0,4326.0,2362.0,1529.0,0.0,False,,,@jannafabrini
+@aurea__a quemmm?,2020-10-25 15:07:46,pt,,0.0,0.0,@aurea__a,maria ♎️,@flamengo ❤️,4706.0,7569.0,363.0,385.0,0.0,False,,,@mclara_alvees
+"Parabéns ao @LewisHamilton por quebrar os recordes mais importantes da história da F1.
+Espero que ninguém ultrapasse ele em momento algum, porque outra geração sem graça na F1 não dá para aguentar. 
+Época áurea de Schumacher e agora deixaram a categoria sem graça.",2020-10-25 15:05:17,pt,,0.0,0.0,,Sérgio Galvani,Jornalista formado que está sempre mexendo com quem está quieto e cinéfilo que vê filme mudo e preto e branco da Turquia.,18336.0,163.0,296.0,452.0,4.0,False,,,@sergiogalvani
+"@Stefanio_Pio @jvfernandes1990 Projeto n é vc gastar oq o kalil gastou e empurrar a divida pro próximo presidente,qm fez isso foi as maria e hj estão quebradas na serie B,Galo agr iniciou um projeto para que possamos fazer times igual 2013 todos os anos sem quebrar o clube.",2020-10-25 15:02:33,pt,,0.0,0.0,@Stefanio_Pio,GALO DOIDO 🏴🏳,"▪Nada pra fazer na quarentena,bora ver meme e falar do Galo ✌
+@Atletico",20574.0,37406.0,1100.0,954.0,1.0,False,,,@ChatoMasCAM
+"@Stefanio_Pio @jvfernandes1990 Kalil quebrou o clube pra ganhar titulo,enfiou diversos cabides de emprego no Galo,empurrou a divida pra frente.
+Isso não é projeto,projeto é oq está sendo realizado agr e se iniciou esse ano.",2020-10-25 15:01:21,pt,,0.0,0.0,@Stefanio_Pio,GALO DOIDO 🏴🏳,"▪Nada pra fazer na quarentena,bora ver meme e falar do Galo ✌
+@Atletico",20574.0,37406.0,1100.0,954.0,1.0,False,,,@ChatoMasCAM
+"@ChatoMasCAM @jvfernandes1990 Escuto desse projeto mto bom quase duas décadas... E o mto bom mesmo, só tivemos com Kalil... Q dava esporro no vestiário e cobrava.",2020-10-25 15:00:19,pt,,0.0,0.0,@ChatoMasCAM,Stefânio Pio🇧🇷🔺🐓,"Mineiro das Alterosas🔺, Casado e Pai de 2 filhos 👨‍👩‍👧‍👦. Além desses amores o GALO 🐓",10495.0,5267.0,1376.0,1385.0,0.0,False,,,@Stefanio_Pio
+"Caralhooo, kkkkkk aurea salvou mt agr",2020-10-25 14:59:36,pt,BR,0.0,0.0,,beró tec,Beatriz Mancebo •integrante @vs_mob  .MC. 022 instagram: vs_bero ♉️ 💜,81382.0,12752.0,1426.0,3855.0,2.0,False,,,@vs_bero
+hoje a conversa do almoço foi eu e o meu pai a conspirar sobre a aurea e a mariza andarem a bater tachos 👀 i love it here,2020-10-25 14:57:45,pt,,0.0,0.0,,spooky boo but make it melo 🎃,"BLACK LIVES STILL MATTER. 
+
+
+
+ig: daniela.melo4",66400.0,3928.0,377.0,377.0,4.0,False,,,@danielamelo04
+@jesuisgabiru Engineer Rabit tem mais candidatos do que ruas,2020-10-25 14:52:57,pt,,2.0,0.0,@jesuisgabiru,Áurea,Desenvolvi juntamente com os meus amigos a Xikola Yetu. Uma plataforma digital de cursos 100% grátis para os angolanos e esse é o meu contributo à nação!✌🏾,8596.0,9219.0,754.0,575.0,3.0,False,,,@aurea_bianca_
+"BH, não é chuva, é o céus reclamando e lamentando o apoio dos eleitores a Kalil, que fechou comércio e quebrou milhares de empresários, e a natureza já chorando antes do povo. https://t.co/pIdGoWBcgn",2020-10-25 14:50:47,pt,BR,0.0,0.0,,Aroldo123,,15069.0,458.0,1894.0,824.0,0.0,False,,,@Aroldo1233
+"@Thiago_uf @entaobel @em_com Poisé então rolou mesmo esse pagamento .. é a máfia aqui que não foi desfeita né . Isso era promessa de campanha do Kalil , a tal caixa preta.. que ficou por isso mesmo e ele taí sendo reeleito.",2020-10-25 14:49:46,pt,,0.0,0.0,@Thiago_uf,salvemocerrado o paidasaguas🌱🍃🌾,SOS 🔺,12933.0,95463.0,945.0,714.0,1.0,False,,,@salvemocerrado
+@grilo_pablo a época áurea acabou e faz tempo.,2020-10-25 14:47:16,pt,,2.0,0.0,@grilo_pablo,DaniAF,"Uma deusa, uma louca, uma feiticeira.",446643.0,36693.0,1984.0,11522.0,125.0,False,,,@DanielaAF
+"@NakaBlog @Poder360 @jairbolsonaro @LulaOficial Não tão rápido, amigo. Bruno Engler aqui em BH emula a campanha 2018 de JMB na capital de Minas, tal qual Haddad fez com Lula. E ainda assim Kalil está com 60% das intenções. Veja só o @BrunoEnglerDM e perceba.",2020-10-25 14:46:48,pt,,0.0,0.0,@NakaBlog,Paolo Xavier,Apenas um latino-americano.,361.0,138.0,439.0,106.0,1.0,False,,,@PaoloXavier
+"@ocafezinho compreensivel, depois de tudo que fizeram, kalil será governador.",2020-10-25 14:42:55,pt,,1.0,0.0,@ocafezinho,Churchill do Brasil,"O que a politica oferece de bom ? A chance de mudar as coisas de 4 em 4 anos.
+MAIS PROJETOS PARA O PAIS E MENOS PERSONALIDADES.",5536.0,4322.0,173.0,228.0,0.0,False,,,@BrasilChurchill
+"@alexandrekalil #kalil falta medicamento no posto de entrega central. Rua alameda vereador Álvaro dias 261 . Medicamento contínuo como Matavam p trombose teve que compra, encontro desempregado,e outro medicamentos muito importante sufametoxozol 400mg +80mg e o Tfv 30c 300mg .",2020-10-25 14:41:26,pt,,0.0,0.0,@alexandrekalil,Oliver,Só vemos as consequências quando elas estão diante dos nossos narizes. ...,113.0,1226.0,447.0,28.0,0.0,False,,,@Oliver55869120
+"Quem me ve na rua bonita cheirosa empoderada nem imagina q nao compro meus beck a tempos, to sem pc, to quase sem geladeira, meu cel ta indo pro saco tb, a camera quase dizendo adeus, a coluna fodida, o psicologico abalado. A minha aurea passa riqueza mas ficou na aurea msmo. cry",2020-10-25 14:40:24,pt,,8.0,0.0,,Marcela Bicalho,Artista Fotógrafa,3817.0,7194.0,266.0,641.0,0.0,False,,,@MarcelaaBicalho
+@nayacgouvea Olha o vídeo do Kalil no grupo. Representa muito.,2020-10-25 14:35:18,pt,,1.0,0.0,@nayacgouvea,#GaloDoidoD+,"Mas quando se ama o GALO, não há distinção! É ir ao estádio, ou ouvir no rádio; é vestir a camisa, tatuar o corpo, pendurar a bandeira, ouvir o hino, cantar.",75274.0,120805.0,1469.0,1530.0,8.0,False,,,@CellinaGalo
+"@caio_npimenta Gosto muito. Mas, apesar de o Kalil ser ótimo, não curto muito a ideia de um partido de aluguel presidido por corrupto estar na chapa.",2020-10-25 14:33:49,pt,,0.0,0.0,@caio_npimenta,Kiko Rieser vota Todd 1️⃣2️⃣1️⃣2️⃣1️⃣,"Escritor, diretor de teatro, cientificista e terrarredondista. |
+
+RT aqui implica concordância com o tuíte, não necessariamente com o tuiteiro.",11264.0,27521.0,1493.0,1499.0,8.0,False,,,@kikorieser
+Cidade mais morta que ÁUREA não  existe carai kkkk,2020-10-25 14:32:28,pt,,0.0,0.0,,🎪🍫,¡Qué rápida me saliste ehh!!!,100693.0,124860.0,508.0,1763.0,22.0,False,,,@Josylichocki
+@alexandrekalil #kalil bom dia ! Porque a falta de medicamentos contínuo como ante coagulantes 5ml e outros muito emportante em alguns posto cetral e a mudança de local de entrega? D medicamento.Receita vence e complica pega nova receita. Dr(a) tem dias certos d atendimentos eu não trabalho 💭,2020-10-25 14:25:43,pt,,0.0,0.0,@alexandrekalil,Oliver,Só vemos as consequências quando elas estão diante dos nossos narizes. ...,113.0,1226.0,447.0,28.0,0.0,False,,,@Oliver55869120
+cadê a glória kalil pra dar umas dicas de etiqueta no twitter cara as pessoas não sabem se comportar na internet,2020-10-25 14:24:15,pt,,84.0,5.0,,murilo araújo,"bicha negra & cristã. criador de conteúdo. ativista. ✨🏳️‍🌈 ✊🏽
+- contato@muropequeno.com
+- jobs: ricardo.silvestre@blackinfluence.com.br",48406.0,61938.0,1655.0,53674.0,93.0,True,,,@musaraujo
+"A Delegada tem quase R$ 2 milhōes pra fazer a campanha (segunda maior verba do estado. Atrás do Kalil), e, se Deus e a população de JF permitirem, não vai nem pro segundo turno",2020-10-25 14:23:48,pt,,3.0,0.0,,Will,"Filosofia de vida: C.R. do Flamengo
+
+Desenvolva seu Inglês em casa (e num preço camarada): https://t.co/td2QGOB4AB
+
+Willder Canabrava",30803.0,64958.0,583.0,490.0,1.0,False,,,@Willder_CRF
+"@aurea_argoloo kkkkkkkkkk, na próxima vez que for no Casagrande vou perguntar se ele quer uma foto comigo, porque não é possível KKKKKKKKKKKKKKKKK",2020-10-25 14:22:40,pt,,0.0,0.0,@aurea_argoloo,gui 🇪🇪,📍ES,3373.0,4012.0,432.0,488.0,0.0,False,,,@guiihrobertoo
+"@SamPancher @Metropoles Uma feliz coincidência as pessoas que tomam logo no início a hidroxicloroquina sararem (como meus familiares )👍
+Um sobrinho médico tomou correndo ,o dr Uip,dr KALIL e outros médicos conhecidos 😉",2020-10-25 14:13:41,pt,,0.0,0.0,@SamPancher,@Lelecaa,"Amo pessoas boas,honestas.Amo os animais.Detesto politico safado. SIMPLES ASSIM.",141206.0,34684.0,4929.0,6274.0,24.0,False,,,@Lelecaa3
+queria ser de bh só pra votar no kalil.,2020-10-25 14:13:40,pt,,0.0,0.0,,presley,without you there is no me @michaeljackson,69615.0,12151.0,937.0,1369.0,10.0,False,,,@whatsdm
+"Bruno Engler: ""Uma saudade de BH - Manifestação pelo impeachment da Dilma e contra o PT""
+
+kkk... https://t.co/E8r3lKPIhb",2020-10-25 14:12:44,pt,,9.0,0.0,,elisa,estudante de jornalismo e fazedora de guacamole nas horas vagas,17431.0,26161.0,477.0,544.0,1.0,False,,,@elisarabelo1
+"Vou te processar por ser tão lindo, fique esperto https://t.co/UAP8GPlTaS",2020-10-25 14:11:10,pt,,3.0,0.0,,moarmy,BTS & TXT 💜,6459.0,23194.0,1355.0,635.0,0.0,False,,,@aurea___
+"@GodoyNikita @aureadamiao A Áurea foi de penetra kkkkkk zoas. Foi algo mt pequeno amiga, pra n ter aglomeração, nem era meu o churras, Au foi pq eu tinha combinado de fazer make com ela",2020-10-25 14:10:39,pt,,1.0,0.0,@GodoyNikita,Amanda Rodrigues,,931.0,4037.0,197.0,73.0,0.0,False,,,@Amandarp18
+"@BazilioGamer @TheBruninho_ @GaloNews_ Esse verme do SETTE vai deixar o Galo na lona. Só o Bolt vai levar 14 milhões de indenização, fora o Chará, RO e outros mais. Péssimo dirigente, arrogante do carai e não sabe nada de futebol. Tá explorando o Galo como todo esses banqueiros q estão no Galo infiltrado. Aliás Kalil",2020-10-25 14:10:38,pt,,0.0,0.0,@BazilioGamer,Edison Galo Doido. #FORASETTECAMARA,"Galo Sempre! Uma Vez Até Morrer!
+O intuito é acompanhar o Galão da Massa!!! Por vários caminhos.",688.0,1148.0,117.0,37.0,0.0,False,,,@EdisonGaloLouco
+@aurea_quites sério,2020-10-25 14:08:09,pt,,0.0,0.0,@aurea_quites,Matheus de Oliveira,we’ll be fine line,1951.0,1779.0,564.0,523.0,0.0,False,,,@theusmav
+"@BazilioGamer @TheBruninho_ @GaloNews_ Ata, então o Kalil é mágico?? Pois contratou vários jogadores já prontos q estavam encostado em outro clubes e foi Campeão da Libertadores. Aqui só contrata apostas cidadão, pq não temos diretoria.E de sobra estão endividando o clube só com essas bostas,171 milhões a + em 2 anos",2020-10-25 14:08:01,pt,,0.0,0.0,@BazilioGamer,Edison Galo Doido. #FORASETTECAMARA,"Galo Sempre! Uma Vez Até Morrer!
+O intuito é acompanhar o Galão da Massa!!! Por vários caminhos.",688.0,1148.0,117.0,37.0,0.0,False,,,@EdisonGaloLouco
+"@Atletico A diretoria come na mão do Sampaoli, os valores se inverteram, quem manda no Galo é ele... time está precisando de um Alexandre Kalil pra dar um tapa na mesa e falar umas verdades.",2020-10-25 14:06:23,pt,,7.0,0.0,@Atletico,André Queiroz,"Professor de educação física,  Atleticano chato, treinador corrida de Rua",163.0,1586.0,172.0,109.0,0.0,False,,,@AndrQueiroz
+"Porra, Kalil explicou atleticanismo ai: https://t.co/nFWoWGlaJe",2020-10-25 14:05:41,pt,,2.0,0.0,,Berel,22,21205.0,5977.0,608.0,896.0,0.0,False,,,@_biellage
+"extremamente chateada que não voto em bh e não posso votar na áurea carolina A MELHOR CANDIDATA QUE ESSA CIDADE JÁ VIU NOS ÚLTIMOS TROCENTOS ANOS
+
+uma das melhores vereadoras que essa cidade já teve
+
+migos de bh votem 50 pls",2020-10-25 14:05:31,pt,,4.0,0.0,,sofi ✨,"asian-brazilian • privacy & internet lawyer/researcher 👩🏻‍🎓⚖️ • games 🎮, tea ☕️, travel 🗺, photos 📸, cdramas n food 🥟 • 中文 / EN / PT • she/her ✨💕",16370.0,25264.0,413.0,992.0,11.0,False,,,@tweetsbysofi
+"Bruno Engler, para Prefeito de BH e Euner Augusto, Vereador. É 28, nestas eleições! @KalilFora https://t.co/ZzPsPJ8Yd8",2020-10-25 14:02:09,pt,,1.0,0.0,,Neli Pimenta,PT Nunca Mais #DireitaSegueDireita,52991.0,60995.0,1807.0,1786.0,0.0,False,,,@NeliPimenta
+"Se liga moçada, é agora a hora de começar a afastar essa gente da política.
+Não adianta ficar só reclamando na rede.
+Em BH:
+Bruno Engler 28
+Vereador Nikolas Ferreira 28000 https://t.co/1Kl1tQfDKx",2020-10-25 14:01:21,pt,,3.0,1.0,,Fernando,"Congresso Internacional do Medo
+Provisoriamente não cantaremos o amor,
+cantaremos o medo da morte e o medo de depois da morte,
+depois morreremos de medo",6227.0,5200.0,414.0,391.0,0.0,False,,,@Infernando1970
+@laniacunha @VEJA Bruno Engler 28! Nossa melhor opção,2020-10-25 13:59:17,pt,,2.0,0.0,@laniacunha,Manda 🇧🇷🇧🇷🇱🇷,"Conservadora, Gado, Robô....",12019.0,119100.0,770.0,673.0,0.0,False,,,@AmandaP03730074
+"@Atletico Tem que cobrar desse do Sampaoli e dos jogadores. A diretoria tem fazer algo,não pode ver o time perder e fica calados. Por isso que o Kalil conquistou a libertadores, a copa do Brasil e a sul-americana, ele ia no ct, cobrava do técnico e dos jogadores.",2020-10-25 13:57:09,pt,,13.0,1.0,@Atletico,Leandro,,179.0,110.0,11.0,1.0,0.0,False,,,@Leandro13465320
+"HOJE n consigo fazer minha tia votar na áurea, entao vc percebe quanto o nível caiu",2020-10-25 13:55:58,pt,,0.0,0.0,@gio_taynar,𝓽𝓪𝔂𝓷𝓪𝓻𝓪,sem tempo irmão,1804.0,2223.0,280.0,44.0,1.0,False,,,@gio_taynar
+@AdrillesRJorge Para endireitar Bh é Bruno Engler 28 🇧🇷,2020-10-25 13:52:30,pt,,0.0,0.0,@AdrillesRJorge,Caroline Pereira Marques,Strength,275.0,1207.0,69.0,12.0,0.0,False,,,@Carolin64257584
+"@HRomeu_Lindo KALIL, SIM! MIL VEZES SIM!",2020-10-25 13:50:48,pt,,0.0,0.0,@HRomeu_Lindo,Castro,"Muito a criticar num país de corruptos. Elogiar quase nunca. Minhas opiniões, meu direito! Não politicamente correto!",2211.0,163.0,15.0,4.0,0.0,False,,,@NiltondeCastro7
+@brunoboghossian Kalil foi a favor  do isolamento e está com quase 70% das intenções de voto,2020-10-25 13:50:34,pt,BR,0.0,0.0,@brunoboghossian,Cláudio Carvalho,,14581.0,11820.0,716.0,143.0,1.0,False,,,@claudioccarvalh
+"@alecarlosaguiar @caprianjo @cassitinha48 Quer vencer como animal??? Kalil é um grande nome, infelizmente ou felizmente esta no PSD",2020-10-25 13:47:04,pt,,0.0,0.0,@alecarlosaguiar,Caio Pimenta 🇧🇷🌹 Márcio França 40 SP,"Juventude Socialista PDT-SP, Trabalhista🌹 Patrióta e Nacionalista 🇧🇷 #Ciro2022 https://t.co/O2F9AW9aai",3522.0,6813.0,3503.0,2125.0,8.0,False,,,@caio_npimenta
+"@ninaarnoold Ah mentira! Capaz que até o Kalil entendeu, porque eu olho assim pra ele 😂",2020-10-25 13:46:14,pt,,0.0,0.0,@ninaarnoold,Bru Abdala,,27996.0,253.0,276.0,296.0,0.0,False,,,@brucausabdala
+"O candidato a vereador me abordou, SEM MÁSCARA, quis APERTAR A MINHA MÃO, e ainda pediu o meu voto! De todas coisas erradas vou me focar no fato que ele não se atentou que sou estrangeira. Enfim, bom domingo!",2020-10-25 13:44:21,pt,,11.0,0.0,,Áurea,Desenvolvi juntamente com os meus amigos a Xikola Yetu. Uma plataforma digital de cursos 100% grátis para os angolanos e esse é o meu contributo à nação!✌🏾,8596.0,9219.0,754.0,575.0,3.0,False,,,@aurea_bianca_
+"@fabiano_hojjo @RePezMich @liberdademedico KALIL É GAROTO PROPAGANDA, DO TSE AFIRMANDO QUE O POVO, PODE SAIR ÀS RUAS PRA VOTAR!",2020-10-25 13:43:13,pt,,1.0,0.0,@fabiano_hojjo,ReN@T@EngDra,CASADA!🐈🐕adoro 04 🐾🐾SÓ SIGO BOLSONARISTAS!🙏🆘🆘,102393.0,43406.0,10067.0,10856.0,3.0,False,,,@ADraeng
+@michelmuller @SenadorKajuru Eles trocaram o Kalil por esse Dimas Covas em 2017. Isso vem de bem antes.,2020-10-25 13:38:15,pt,,0.0,0.0,@michelmuller,Velho Anarquista,"Eu tive banda de garagem, achei que ia mudar o mundo! Mas aí chegaram os boletos...",6522.0,17614.0,2738.0,1423.0,1.0,False,,,@renato_aloi
+"@jrvaz Velho, vc tá certo. E tem mais uma coisa na minha visao: falta um Kalil pra enfiar o dedo na cara do Sampaoli e mandar ele abaixar a bolinha dele também.",2020-10-25 13:38:03,pt,BR,0.0,0.0,@jrvaz,M🅰️gno R🅰️mos,"O que VEMOS é totalmente diferente daquilo o que PENSAMOS. A única constante é a mudança. Galo, Caldense, NBA, tênis e rock and roll!",32231.0,2282.0,478.0,259.0,4.0,False,,,@magnopramos
+"@SenadorKajuru Essa Dimas Covas assumiu em 2017, teve manifestação contra a saída do Kalil, temendo retrocessos justamente na área de vacinas. Dizem que foi indicação política do PSDB que governa SP há 24 anos. Eles não dão ponto sem nó. Acho que agora a gente descobriu porque.",2020-10-25 13:36:50,pt,,0.0,0.0,@SenadorKajuru,Velho Anarquista,"Eu tive banda de garagem, achei que ia mudar o mundo! Mas aí chegaram os boletos...",6522.0,17614.0,2738.0,1423.0,1.0,False,,,@renato_aloi
+"@Mc83Gabi @PaivaNOVO @eduardorodrigo E avisa pra esse frouxo aí que o candidato do Bolsonaro em BH é o Bruno Engler, se ele ta achando que vai ganhar algum %  com essa de Time Bolsonaro.",2020-10-25 13:36:30,pt,,4.0,0.0,@Mc83Gabi,Marlon Fernandes,"🐔Torcedor do único time de Minas na Serie A!🐔 Empreendedor, liberal e filiado ao Partido NOVO.",13174.0,50340.0,2902.0,1354.0,2.0,False,,,@marlonigor
+KALIL - INCOERENTE - ESCOLAS ABERTAS - JÁ https://t.co/k8kLnSEWk2,2020-10-25 13:34:35,pt,,1.0,0.0,,Max Costa,,171.0,178.0,100.0,23.0,0.0,False,,,@MaxCost76474915
+@kalil_pz Gado,2020-10-25 13:34:12,pt,,2.0,0.0,@kalil_pz,boiola,~nn me responsabilizo por erros ortográficos cometidos nesta página~ ela/dela,27892.0,64147.0,1191.0,401.0,1.0,False,,,@marianabento33
+"Data/Tempo: Com liderança recorde, Kalil (PSD) se aproxima da reeleição em BH, PT e PSDB patinam #MaisLidas https://t.co/m8IeI3euT6",2020-10-25 13:31:34,pt,,65.0,7.0,,O Cafezinho ☕️🇧🇷,"Blog de política, na estrada desde 2004. Editado por Miguel do Rosário. Youtube: https://t.co/chmGRouO2T",113817.0,8626.0,510.0,36999.0,298.0,False,,,@ocafezinho
+eu sou a favor do kalil no bbb21 https://t.co/23I34ZDVhc,2020-10-25 13:31:10,pt,,4.0,1.0,,lucas,an??,11847.0,36432.0,360.0,670.0,0.0,False,,,@lucasdrfz
+@CrisGalo @Atletico Kalil é um dos poucos que compreende a alma do atleticano,2020-10-25 13:30:27,pt,,3.0,0.0,@CrisGalo,JC G🅰️LO SÉRIE 🅰️,"Galo, desde o berço ate o caixao e ANTIFASCISTA!
+
+Se a vida fosse fácil, ninguem nascia chorando.....",41295.0,58311.0,2886.0,1411.0,4.0,False,,,@jcerodrigues
+@kalil_pz amg sabia que tu eh igualzinho um cara de how to get away  with murder?,2020-10-25 13:29:19,pt,,1.0,0.0,@kalil_pz,big shoe🚀,diario secreto aberto    she/her,51894.0,47014.0,4908.0,3796.0,6.0,False,,,@yfuckoff
+eu queria tanto a titularidade do boulos na prefeitura de sp e a da áurea em bh. o que que custa votar num 50 irmao,2020-10-25 13:28:25,pt,,2.0,0.0,,𝓽𝓪𝔂𝓷𝓪𝓻𝓪,sem tempo irmão,1804.0,2223.0,280.0,44.0,1.0,False,,,@gio_taynar
+A prefeitura de Belo Horizonte ao sr Alexandre Kalil: SOS MOTORISTA DE APLICATIVOS - Assine a petição! https://t.co/m2DHNJFS7z via @change_br,2020-10-25 13:27:58,pt,,0.0,0.0,,Amigueba,O Amigueba é o amigo do Negueba,7576.0,10787.0,970.0,90.0,0.0,False,,,@Amigueba
+"@Clauwild1 Ele vai ser eleito, tô acompanhado de perto, pesquisas fajutas... A aceitabilidade ao Bruno é enorme; a rejeição ao Kalil muito alta.",2020-10-25 13:27:13,pt,,0.0,0.0,@Clauwild1,tulio doti dP.,Graduado em detecção de esquerdista. Mestre em desmascaramento. Doutor em humilhação pública. ítalo-brasileiro🇮🇹🇧🇷,5718.0,17421.0,1058.0,394.0,0.0,False,,,@t_uli0
+"@WagmarV @DewesVania @_patriotism_ @BrunoEnglerDM @nikolas_dm Tomara, porque o Kalil está dando combustível e comprando votos ao melhor estiloso PT...espero que ele não ganhe mesmo.",2020-10-25 13:26:21,pt,,1.0,0.0,@WagmarV,Geziel Gomes,"Casado, Brasileiro e Patriota até os ossos.
+Esquerdistas Zumbis serão bloqueados...SDV todos de direita, juntos faremos a diferença.",13015.0,17748.0,2258.0,1916.0,1.0,False,,,@GezielGomes4
+O felix tem uma áurea tão angelical e perfeita que chega  a da dó tocar nele e corroer toda essa perfeição https://t.co/jiCWaWKdvk,2020-10-25 13:23:42,pt,,2.0,0.0,,juju ♥︎' jisung,ela/dela | fan account,20696.0,14195.0,3548.0,4030.0,50.0,False,,,@hanniecelest
+"@WagmarV @DewesVania @_patriotism_ Eu sinceramente não consigo entender isso, mais fazer o quê neh? Em BH os MG estão querendo eleger o Kalil que ferrou com a vida deles...vai ver são todos masoquistas e gostam de levar tapa na bunda e ser queimados de vela 🕯️...😂😂😂😭😭😭",2020-10-25 13:23:20,pt,,1.0,0.0,@WagmarV,Geziel Gomes,"Casado, Brasileiro e Patriota até os ossos.
+Esquerdistas Zumbis serão bloqueados...SDV todos de direita, juntos faremos a diferença.",13015.0,17748.0,2258.0,1916.0,1.0,False,,,@GezielGomes4
+Áurea em BH seria épico e lindo ❤️,2020-10-25 13:21:18,pt,,0.0,0.0,,Marcos Almeida,#Sefazsentirfazsentido ⚓ - que o amor seja a melhor forma de começar e terminar todos os nossos dias. ❤ #assistentesocial,3204.0,2143.0,366.0,465.0,2.0,False,,,@marckosalmeida
+"@SamuelsonXavie1 O Zema só vai ter cacife pra essa “briga” até 2022.
+
+Vai perder pro Kalil por 70% e ser enxotado da política.",2020-10-25 13:19:17,pt,,12.0,1.0,@SamuelsonXavie1,AntifaOps 🚜🌹,Belo Horizonte-MG. Social-democrata desde sempre. Quero discutir ações PRÁTICAS de enfrentamento ao neoconservadorismo.,7739.0,24524.0,4997.0,2389.0,7.0,False,,,@AntifaOps
+@mceciliarocha Tá tão absurda que chega a ser normal,2020-10-25 13:19:17,pt,,1.0,0.0,@mceciliarocha,kamarada,You know I read it in a magazine,4529.0,24690.0,226.0,180.0,2.0,False,,,@kalil_pz
+@aurea_bianca_ @sharam_diniz @NanizaiawoM @notvictor14 😂😂😂😂 sou fã,2020-10-25 13:17:59,pt,,1.0,0.0,@aurea_bianca_,Lord stark 🤴,"Leal, Engenheiro e Tony Stark nas horas vagas.",1893.0,1594.0,163.0,16.0,0.0,False,,,@damiveloso
+"Ao que tudo indica...
+
+Kalil vai ser eleito em primeiro turno em Belo Horizonte.
+
+Martha Rocha deve ir pro segundo turno com Paes no Rio. Ela é a única que ganha dele no 2° turno.
+
+Em Fortaleza, Sarto disparou e deve chegar ao segundo turno.",2020-10-25 13:17:54,pt,,3.0,0.0,,Bryan Venera 🌹🌹🇧🇷,Palmeirense e cirista de android 😎,164.0,104.0,655.0,383.0,3.0,False,,,@BryanVenera1
+@Luh_Aurea_ Kkkkkkkkkkkkkkkkk igualzinho,2020-10-25 13:14:31,pt,,0.0,0.0,@Luh_Aurea_,Bebella,Provérbios 4:23 ♥️,2896.0,31472.0,771.0,726.0,0.0,False,,,@Bella_RS1801
+"@Heliolage @andradegabr1ela @LeonardoBoff @ptbrasil @ptsaopaulosp Aqui em BH? Pra quê? Kalil já tá reeleito, e com apoio do PDT, que fez certo. A Áurea é boa, mas não tem a menor chance.",2020-10-25 13:12:27,pt,,0.0,0.0,@Heliolage,Ronaldo Luis 1⃣2⃣ 🌹,,429.0,640.0,176.0,86.0,0.0,False,,,@roneissu
+"@luislacombereal poderia fazer uma live com o Jorge Kalil, ex Butantã e em desenvolvimento de uma vacina brasileira 😉",2020-10-25 13:11:58,pt,,0.0,0.0,@luislacombereal,Angelica Souto,Informação é tudo!,16446.0,31510.0,624.0,336.0,1.0,False,,,@angelicasoutos
+"Aqui na família, umas trinta pessoas, ninguém vai votar em nenhum vereador, só vamos no prefeito Kalil, por causa de sua gestão.",2020-10-25 13:07:53,pt,,0.0,0.0,,@pastorribeiro68,honesto.sincero.prestativo.,1282.0,9.0,89.0,2.0,0.0,False,,,@pastorribeiro68
+@fabiobass Bem melhor que a Siri,2020-10-25 13:06:06,pt,,1.0,0.0,@fabiobass,Áurea,Desenvolvi juntamente com os meus amigos a Xikola Yetu. Uma plataforma digital de cursos 100% grátis para os angolanos e esse é o meu contributo à nação!✌🏾,8596.0,9219.0,754.0,575.0,3.0,False,,,@aurea_bianca_
+"@damiveloso @sharam_diniz @NanizaiawoM @notvictor14 Moço, olá só o que ela disse?😭😭😭",2020-10-25 13:05:46,pt,,1.0,0.0,@damiveloso,Áurea,Desenvolvi juntamente com os meus amigos a Xikola Yetu. Uma plataforma digital de cursos 100% grátis para os angolanos e esse é o meu contributo à nação!✌🏾,8596.0,9219.0,754.0,575.0,3.0,False,,,@aurea_bianca_
+"Querido candidato a vereador, campanha eleitoral não é feita com barulho e buzinas num bairro universitário em pleno domingo pela amanhã, acreditem!",2020-10-25 13:05:09,pt,,17.0,0.0,,Áurea,Desenvolvi juntamente com os meus amigos a Xikola Yetu. Uma plataforma digital de cursos 100% grátis para os angolanos e esse é o meu contributo à nação!✌🏾,8596.0,9219.0,754.0,575.0,3.0,False,,,@aurea_bianca_
+@ludtxr Tem nem comparaçãoooooooooo,2020-10-25 13:03:41,pt,,0.0,0.0,@ludtxr,Luísa,Nem tento resumir,3381.0,2710.0,126.0,139.0,0.0,False,,,@Luh_Aurea_
+"@policiafederal @policiafederal chega no Kalil antes das eleições, pelo amor de Deus!!! Temos que tirar esse traste do poder.",2020-10-25 13:02:57,pt,,0.0,0.0,@policiafederal,Mel,"Conservadora, Fé em Deus, mãe, esposa, empresária. Pátria Amada Brasil 🇧🇷🇧🇷🇧🇷",2510.0,6180.0,105.0,29.0,0.0,False,,,@Mel_Garcia2020
+@coimbrasousa O sonho do Ciro é ter um Kalil em todas as capitais. Sem polarização.,2020-10-25 12:46:33,pt,,2.0,0.0,@coimbrasousa,Bruno Ribeiro - Boulos 50/Ana Mielke 50075,Servidor técnico administrativo na ECA/USP. Membro do Coletivo Butantã na Luta. Militante do Núcleo Florestan Fernandes - PSOL/Butantã.,975.0,11.0,356.0,170.0,2.0,False,,,@BrunoRibeiroCBL
+Toda vez que eu faço vídeo chamada com a áurea gay aumenta mais um pontinho na escala da saudade.,2020-10-25 12:40:48,pt,,0.0,0.0,,lulu da pomerania,Acabei de chegar e ja to saindo,558.0,798.0,84.0,38.0,0.0,False,,,@xamadodeserto
+Bruno Engler na cabeça!!!!  Vote 28 https://t.co/hqeAyHdvYP,2020-10-25 12:38:28,pt,,0.0,0.0,,Cibele Itaboray,Personalidade e caráter próprios. Incomoda? Com certeza!,21718.0,476.0,690.0,346.0,9.0,False,,,@CibeleItaboray
+"@joaovitorxavier João Vitor desista.meu filho, você e café pequeno para o prefeito Kalil.",2020-10-25 12:33:25,pt,,0.0,0.0,@joaovitorxavier,João brasilino,,105.0,4.0,45.0,0.0,0.0,False,,,@Joobrasilino1
+@soodiodessaputa Amei,2020-10-25 12:30:02,pt,,0.0,0.0,@soodiodessaputa,kamarada,You know I read it in a magazine,4529.0,24690.0,226.0,180.0,2.0,False,,,@kalil_pz
+"Kalil liderando as pesquisas... que vergonha BH, que vergonha!",2020-10-25 12:22:34,pt,,0.0,0.0,,Ingrid,"22. Penso, logo não sou esquerdista. Preserve sua saúde mental, não converse com esquerdinhas. Conservadora. 🇧🇷✝️",5419.0,13352.0,3834.0,3648.0,0.0,False,,,@ingjb8
+@KalilNZ Kalil ce errou nao tem &amp;,2020-10-25 12:21:23,pt,,0.0,0.0,@KalilNZ,running alone,eu cuido de mim e espero q vc cuide de vc tbm.,55688.0,18650.0,197.0,249.0,11.0,False,,,@koiparadox
+"@ParcialDenu 
+Jaque e mariano vão continuar aqui fora ?",2020-10-25 12:19:28,pt,,0.0,0.0,@ParcialDenu,Aurea Cristina Brandao Leal,SEJA VOCÊ A SUA PAZ🍀,61.0,52.0,72.0,5.0,0.0,False,,,@aurea_b4
+"@cadufashion @fabiooairg @br_kalil @DaniloGentili @cinemari O cara quando nasce imbecil, nem coisas óbvias como a escritas pelo @DaniloGentili o convencem. O imbecil segue o discurso, sem se importar com o contexto ele só segue repetindo discurso ensaiado sem sentido!!",2020-10-25 12:19:21,pt,,15.0,0.0,@cadufashion,🇦🇹 SAL GROSSO 🇦🇹,"Amante da Corneta, Cerveja, Família e do Colorado!",11963.0,4771.0,580.0,152.0,0.0,False,,,@Israelborgess
+Lei áurea só Borges faz arrepiar tá mlc kkk,2020-10-25 12:18:52,pt,,0.0,0.0,,J O T Aᶜʳᶠ,Vai ser nós contra o mundo sempre... 🤞🏽👩🏽‍🤝‍👨🏾❤🥰 @coenathy,7265.0,11181.0,308.0,344.0,0.0,False,,,@JonathanRuchell
+"@aurea_bianca_ @sharam_diniz @NanizaiawoM @notvictor14 Moça não fica assim, hoje é Domingo deixa a outra 😂😂😂😂😂😂😂😂😂😂",2020-10-25 12:18:15,pt,,1.0,0.0,@aurea_bianca_,Lord stark 🤴,"Leal, Engenheiro e Tony Stark nas horas vagas.",1893.0,1594.0,163.0,16.0,0.0,False,,,@damiveloso
+Tenho q amar muito os meus amigos pra acordar 9h depois de uma noite de insônia só pra receber eles aqui viu,2020-10-25 12:17:44,pt,,0.0,0.0,,Luísa,Nem tento resumir,3381.0,2710.0,126.0,139.0,0.0,False,,,@Luh_Aurea_
+"Na TV vi  pastor, fazendo um exorcismo e o demônio disse que era o TRANCA RUA. Alguém sabe me dizer se se tratava do Kalil ou do Covas?",2020-10-25 12:10:48,pt,,2.0,1.0,,Leo Araújo⚡,"I swear by my life and my love of it that I will never live for the sake of another man, nor ask another man to live for mine.",3747.0,944.0,711.0,631.0,0.0,False,,,@Leo_AraujoBHz
+@rafaelmeninsouz @rubensmenin @rafaelmeninsouz O mané 200milhoes no galo pra isso?!??!! Quanto amadorismo pra comandar um clube de futebol!!!! Kalil com 200 milhoes n da nem pra imaginar o q aconteceria!! AMADOR,2020-10-25 12:05:25,pt,,0.0,0.0,@rafaelmeninsouz,JONILSON,,67.0,7.0,98.0,17.0,0.0,False,,,@JONILSON_REI
+@rubensmenin @rafaelmeninsouz O mané 200milhoes no galo pra isso?!??!! Quanto amadorismo pra comandar um clube de futebol!!!! Kalil com 200 milhoes n da nem pra imaginar o q aconteceria!! AMADOR,2020-10-25 12:04:57,pt,,0.0,0.0,@rubensmenin,JONILSON,,67.0,7.0,98.0,17.0,0.0,False,,,@JONILSON_REI
+"Qualquer rede social: *Cai*
+Eu imediatamente no tt: o q é a queda do ** perto da queda q eu tenho por vc",2020-10-25 12:01:18,pt,,1.0,0.0,,Piu,"São José dos campos, a cidade das capivara bolinho caipira e onde vc pega o ex da sua ex da prima da sua tia q namora o namorado da sua amiga",1018.0,2368.0,1398.0,438.0,0.0,False,,,@phillip_kalil
+@kalil_borges @Volpimilgrau LE DIREITO CARALHO,2020-10-25 11:51:54,pt,,2.0,0.0,@kalil_borges,オフライン,"brigando pra ver quem é o mais igual,uau
+insta: @brielzinn",3814.0,19685.0,155.0,112.0,0.0,False,,,@yBrielzinn
+Kalil tinha razão: ser atleticano faz mal.,2020-10-25 11:51:00,pt,,2.0,0.0,,Flávinho,"decepcionando desde 1992. 
+https://t.co/TiqoWP8Bb8 ;
+https://t.co/MNmO4E09JQ",10156.0,26032.0,499.0,159.0,0.0,False,,,@oisrflavio
+"BH vota Bruno Engler!!
+PANIS ET CIRCENSES
+O destino de BH não pode ser decidido por voto de torcida!
+#ForaKalil https://t.co/hWykvVP7RL",2020-10-25 11:50:05,pt,,2.0,0.0,,Washington Oliveira,"Cristão, brasileiro, de bem comigo e com meu voto!",7718.0,9754.0,2077.0,1477.0,0.0,False,,,@washoliva
+Após as eleições será assim .... Alexandre Kalil ( PHS ) Prefeito de BH bate-boca com pré-candidato em re... https://t.co/4wgPVzJMkf via @YouTube,2020-10-25 11:45:02,pt,,1.0,0.0,,Bonoro Pistola .380❁,"https://t.co/nfkcgIFyBT #Bolsonaro2022 06/09/2018 ex Militante do PSOL tenta assassinar Jair Messias Bolsonaro #CACs 🚀ou uma 🛶? https://t.co/JVAW46Cwbk
+#Reforma https://t.co/p7qeuG4avM",27386.0,17857.0,4005.0,3154.0,1.0,False,,,@bonoropistol
+"@Jaccmts Com vocês até o fim 
+Que seje eterno enquanto dure ❤❤❤",2020-10-25 11:43:48,pt,,1.0,0.0,@Jaccmts,Aurea Cristina Brandao Leal,SEJA VOCÊ A SUA PAZ🍀,61.0,52.0,72.0,5.0,0.0,False,,,@aurea_b4
+@phillip_kalil FOI HACK EU JURO,2020-10-25 11:43:12,pt,,0.0,0.0,@phillip_kalil,ᴅᴜ✏️|| ᴅᴀʟʟᴀs,ᴄᴀᴅᴇʟɪɴʜᴀ ᴅᴇ ᴍᴜʟʜᴇʀᴇs ᴅᴇ ᴍᴇɪᴀ ɪᴅᴀᴅᴇ| fan account,937.0,1086.0,209.0,168.0,1.0,False,,,@dudaituno
+"@CogLinus Entra ano, sai ano, e sempre a mesma coisa, pesquisas fraudadas para justificar as fraudes nas Urnas
+Manuela em POA
+Covas em SP
+Kalil em BH
+Paes no RJ
+Se o Povo tivesse acreditado em pesquisa o PR seria o Andrade.",2020-10-25 11:43:10,pt,,0.0,0.0,@CogLinus,OEscolhido😎🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷,"Não gosto de político banana lacrador inútil ao Povo.
+
+
+ESTÁ CHEGANDO A HORA DE TUDO SER COLOCADO NO DEVIDO LUGAR👈👍👀🤜🤛🙌
+Jair Messias Bolsonaro ☝️💪😠😁",15660.0,6385.0,1140.0,820.0,1.0,False,,,@oscar_qjunior
+@dudaituno Vo bebe cloro,2020-10-25 11:41:57,pt,,0.0,0.0,@dudaituno,Piu,"São José dos campos, a cidade das capivara bolinho caipira e onde vc pega o ex da sua ex da prima da sua tia q namora o namorado da sua amiga",1018.0,2368.0,1398.0,438.0,0.0,False,,,@phillip_kalil
+@dudaituno PARÇA KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK ENGASGUEI AKI CALMA KKKKKKKKKKKK,2020-10-25 11:41:36,pt,,0.0,0.0,@dudaituno,Piu,"São José dos campos, a cidade das capivara bolinho caipira e onde vc pega o ex da sua ex da prima da sua tia q namora o namorado da sua amiga",1018.0,2368.0,1398.0,438.0,0.0,False,,,@phillip_kalil
+vou votar no kalil eh isto,2020-10-25 11:39:05,pt,,0.0,0.0,@mychemicalmath,🦇 spooky math 🦇,this song is about sucking dick for cocaine. ele/dele,120312.0,419.0,718.0,1430.0,9.0,False,,,@mychemicalmath
+Acorde BH!Temos Bruno Engler como única opção contra o ditador Kalil .Deixem de ser besta! #BrunoEngler28 @alexandrekalil @BrunoEnglerDM https://t.co/NsE5vaR0rB,2020-10-25 11:37:34,pt,,3.0,1.0,,Janna Fabbrini®🗽,De costas para escuridão e de frente para a LUZ!,8962.0,4326.0,2362.0,1529.0,0.0,False,,,@jannafabrini
+"Kalil não pode ser reeleito. 
+Acordem Belorizontinos
+#DoriaTemQueCair https://t.co/Y0lhmUR7QA",2020-10-25 11:35:39,pt,,5.0,1.0,,Engenheira BH,"Conservadora, temente a Deus. Uma mulher de família
+Engenheira Civil
+FECHADA COM BOLSONARO
+#BolsonaroOrgulhoDoBrasil",4179.0,13987.0,5813.0,5693.0,1.0,False,,,@EnalesilA
+"@VEJA Deus abençoe Belo Horizonte, iremos eleger aqui um prefeito conservador que valorize a família e os bons costumes. De quebra ainda trabalhará junto ao nosso presidente querido! Bruno Engler prefeito. #B28 #BrunoEngler28 🙏👏👏👏👏",2020-10-25 11:32:44,pt,,4.0,1.0,@VEJA,Orgulhodobrasil,,1182.0,1472.0,201.0,31.0,0.0,False,,,@Orgulhodobrasi1
+"@_ZuleikaBrand_ Daí só Bruno Engler 28 é de direita.....oqueeeeeee, russolmano de direeeeeita?",2020-10-25 11:32:08,pt,,0.0,0.0,@_ZuleikaBrand_,FulanoDeTal🇧🇷🇮🇱🇺🇲b38🤟,"contra o politicamente correto,de direita,agricultor com muito orgulho...SDV",3015.0,6688.0,659.0,567.0,0.0,False,,,@fulanodetalsp
+"@AdrillesRJorge Aqui em bh, pesquisa (q não confio muito)coloca o atual prefeito, Kalil, a frente com 60% da intenção de votos.triste! Um sujeito q fechou comércio, quebrou empresas, abriu covas, se elegeu dizendo q abriria cx preta da bhtrans e não aceitaria aumento de passagem(fez o contrário)",2020-10-25 11:28:50,pt,,9.0,1.0,@AdrillesRJorge,Frederico Augusto,,1.0,0.0,19.0,0.0,0.0,False,,,@Frederi17760602
+"o povo vive falando que a áurea do jimim por exemplo muda completamente quando ele se apresenta, mas puts a do yoongi ent, ele é todo todo pequenininho delicadinho, e quando ele ta no palco parece que vai socar a cara de alguém 😭😭",2020-10-25 11:27:33,pt,,0.0,0.0,,mariana,boy bands r just good . i love when men entertain me. do a little song n dance for me boys,36398.0,56115.0,853.0,901.0,10.0,False,,,@blackswanct
+"protegei-me da sabedoria que nao chora 
+Da filosofia que nao ri, e da grandeza que nao se inclina perante as criancas
+
+kalil ghibran kalil",2020-10-25 11:24:22,pt,,0.0,0.0,,Ricabi,Itajahy - SC,3046.0,2849.0,473.0,95.0,0.0,False,,,@rbittencourttj1
+@BrunoEnglerDM Bora povo de BH com Bruno engler para prefeito 💪💪💪💪👏👏👏👏💛💚💙,2020-10-25 11:24:15,pt,,1.0,0.0,@BrunoEnglerDM,José Francisco,"-Somos todos Bolsonaro
+-🇧🇷💚💪🟢📗
+-Pai da Iane",5036.0,14745.0,2806.0,2365.0,0.0,False,,,@JosFranVilela
+"@fael_moe E tipo, não são só políticos não, cientistas, artistas MT deles tem nariz empinado. Fora alguns movimentos que sua ideologia não chega aonde deve.
+Porém há algumas excessões, Boulos em SP, Bené no RJ e Áurea em BH dão um pouco de esperança",2020-10-25 11:23:12,pt,BR,1.0,0.0,@Matheusvvalada,Matheus,"apenas um rapaz latino americano de 23 anos, estudante de jornalismo, sem dinheiro no banco, sem parentes importantes e vindo do interior.",7778.0,58792.0,1792.0,232.0,0.0,False,,,@Matheusvvalada
+"Se você tem costume de acordar cedo parabéns para vc, me deixa dormir inferno",2020-10-25 11:22:36,pt,,0.0,0.0,,JuLLia,𝟷8 𝚢 || 💙🦋|| 𝚃𝚊𝚞𝚛𝚒𝚗𝚊 ♉️|| @𝚏𝚕𝚊𝚖𝚎𝚗𝚐𝚘 🔴⚫️|| 𝚂𝚌𝚘𝚞𝚝 ⚜️ || 𝙰𝚌𝚊𝚒 😋 ||,17006.0,8669.0,488.0,724.0,0.0,False,,,@Kalil_Jullia
+Bom dia da melhor forma ❤️,2020-10-25 11:22:34,pt,,0.0,1.0,,Berenice,10/09❤️ 🌈 pipipipopopo,90394.0,43151.0,1651.0,2525.0,0.0,False,,,@Aurea_lisb
+"Belo Horizonte precisa mudar 
+Bruno Engler 28 https://t.co/3TJCJEMaQt",2020-10-25 11:14:55,pt,,0.0,0.0,,Maria Aparecida,"Socialismo só para socialistas, para mim não,obrigada. Conservadora, patriota, cristã e contra o Globalismo.  🇧🇷💚🇮🇱",13918.0,16021.0,253.0,396.0,0.0,False,,,@mpirialmeida
+@Luh_Aurea_ será se já viram você?,2020-10-25 11:12:29,pt,,1.0,0.0,@Luh_Aurea_,𝔩𝔲𝔡 𝔖𝔪𝔦𝔱𝔥,curtiu o fixado = amg,9075.0,35201.0,362.0,510.0,0.0,False,,,@ludtxr
+"@damiveloso @sharam_diniz @NanizaiawoM @notvictor14 Então aqui vai outra, foi isso que aprendeste na Escola Portuguesa?",2020-10-25 11:01:50,pt,,1.0,0.0,@damiveloso,Áurea,Desenvolvi juntamente com os meus amigos a Xikola Yetu. Uma plataforma digital de cursos 100% grátis para os angolanos e esse é o meu contributo à nação!✌🏾,8596.0,9219.0,754.0,575.0,3.0,False,,,@aurea_bianca_
+"@nunoaires @CaipLounge A meu ver, a mudança não acontecerá nas urnas porque não existe democracia, começo acreditar na pressão dos movimentos sociais e na pressão da mídia.",2020-10-25 11:00:58,pt,,7.0,0.0,@nunoaires,Áurea,Desenvolvi juntamente com os meus amigos a Xikola Yetu. Uma plataforma digital de cursos 100% grátis para os angolanos e esse é o meu contributo à nação!✌🏾,8596.0,9219.0,754.0,575.0,3.0,False,,,@aurea_bianca_
+@GiscardRichard Vivemos de Campeonato mineiro mesmo. O Kalil foi o ponto fora da curva. Montou um timaço e do time de hoje nenhum jogador seria titular em 2013. Nem o Rever no lugar do Rever.,2020-10-25 10:55:26,pt,,0.0,0.0,@GiscardRichard,Claudio Disc 🇧🇷 🇮🇹 il pazzo,Ítalo brasileiro e Galo Doido.,2414.0,1046.0,29.0,23.0,1.0,False,,,@Disca73
+"""Marketing bom é bola na casinha""
+
+   Kalil",2020-10-25 10:54:27,pt,BR,28.0,6.0,,Marcos Roberto da série 🅰️✊🏿🐓,"Pois não posso, não devo
+Não quero viver como toda essa gente insiste em viver.
+Não posso aceitar sossegado
+Qualquer sacanagem ser coisa normal",4416.0,6381.0,4463.0,6518.0,8.0,False,,,@minasdipepe
+"#Bruno28BH
+#Nikolas28000BH
+
+Vamos endireitar BH com Bruno Engler e Nikolas Ferreira do Direita Minas. 
+
+Ah, só relembrando:
+#ForaKalil https://t.co/DTqYZbpfHW",2020-10-25 10:50:16,pt,,6.0,2.0,,Dorotéia Pena 🇧🇷®️,"Conservadora, bolsonarista, pró-vida.
+Professora, Arquiteta.",3165.0,5471.0,675.0,443.0,0.0,False,,,@doropena
+"@tonhaogfv @FatimaTanos Enquanto o Kalil fica em casa e dá gasosa com o nosso dinheiro, este candidato está nas ruas pedindo voto sem usar nenhum centavo de dinheiro público. https://t.co/UjIcmhuRIT",2020-10-25 10:45:28,pt,,0.0,0.0,@tonhaogfv,Dirceu Brandão 🔟1️⃣0️⃣0️⃣,"Conservador, patriota e ficha Limpa. Fundador do movimento Pro Libertas.",433.0,120.0,151.0,57.0,0.0,False,,,@dirceubrandaomg
+@caio_npimenta Também queria Kalil governador,2020-10-25 10:43:24,pt,,2.0,0.0,@caio_npimenta,Morgana das Fadas 🌹🚜✊🏼,,10520.0,12628.0,1101.0,766.0,2.0,False,,,@denisale001
+@CaipLounge @aurea_bianca_ Que CNE? O novo anexo do Palácio?,2020-10-25 10:33:16,pt,,1.0,0.0,@CaipLounge,Nuno Aires - #NaoABrutalidadePolicial,"#Paide2 • 📢 Crítico por natureza • 👥 Crente que juntos chegamos todos mais longe • 🐻 Criador da @luandasmokeshop • 💚 #VerdeEBranco
+🙋🏾 Blog pessoal ↘️↘️",34170.0,34791.0,1300.0,2276.0,18.0,False,,,@nunoaires
+"Atenção, povo de BH! Vamos votar no Bruno Engler! https://t.co/3whsypEGfZ",2020-10-25 10:27:55,pt,,0.0,0.0,,Silvana Magalhães,Brasil,22324.0,28520.0,499.0,508.0,0.0,False,,,@SilvanaMagalh19
+@aurea_vallejo A Solsona 980. No ens estem de res.,2020-10-25 10:27:04,pt,,1.0,0.0,@aurea_vallejo,Aleix Albareda,"Actor que pinta, pintor que actua.",1248.0,2212.0,138.0,279.0,5.0,False,,,@AleixAlbareda
+"@tonhaogfv @FatimaTanos Como eleitor, eu votaria no Bruno Engler, fazendo campanha sem usar um centavo do dinheiro público, está indo em todos os lugares, enquanto o Kalil não tem coragem de ir às ruas pq sabe que será vaiado.",2020-10-25 10:20:13,pt,,0.0,0.0,@tonhaogfv,Dirceu Brandão 🔟1️⃣0️⃣0️⃣,"Conservador, patriota e ficha Limpa. Fundador do movimento Pro Libertas.",433.0,120.0,151.0,57.0,0.0,False,,,@dirceubrandaomg
+Acordei com mensagem do Kalil dizendo veinha gostei de você kkkk,2020-10-25 10:08:11,pt,,2.0,0.0,,Adrissa Silva,"Sorria, pois rir é a energia que mais produz luz na alma!! 😄🍀✌❤",604.0,756.0,106.0,37.0,0.0,False,,,@adrissa_silva
+"o menino: Você tem uma energia muito pesada 
+
+eu contando pros meu amigos: ele me chamou e feia, de gorda, falou que era horrível, que me odiava, que minha áurea era ruim, que minha energia era pesada.",2020-10-25 10:07:40,pt,,14.0,0.0,,rapho,esse é o espaço onde eu jogo as bombas das merdas que falo e sigo minha vida sem me importar com as consequências,17636.0,22633.0,386.0,456.0,1.0,False,,,@raphofer
+@naofacaeusacar @kalil_borges kalil??????? homem é a pior raça q existe plmds,2020-10-25 09:53:44,pt,,0.0,0.0,@naofacaeusacar,dudinha,,11691.0,9672.0,215.0,64.0,0.0,False,,,@dudinhadeoz
+Pessoal inventa de mais tá doido,2020-10-25 09:53:38,pt,,2.0,0.0,,gordão🦈,Guajará Mirim/RO 17y,62.0,112.0,176.0,133.0,0.0,False,,,@kalil_emanuel
+"@DelioVieira1 @jairbolsonaro Temos sim,Bruno Engler! #BrunoEngler28 https://t.co/pMMlWrqXh2",2020-10-25 09:45:07,pt,,0.0,0.0,@DelioVieira1,Janna Fabbrini®🗽,De costas para escuridão e de frente para a LUZ!,8962.0,4326.0,2362.0,1529.0,0.0,False,,,@jannafabrini
+"@Clauwild1 Não vou votar deste bosta bem morrrrrta, mas aqui houve um erro estratégico gigantesco. O Bruno  não se mostrou para BH , então tá essa vaca aí. Kalil é o fim!!",2020-10-25 09:44:30,pt,,0.0,0.0,@Clauwild1,Sandra #Liberdade !!!!,Eita povo bonito! Vamos lutar pelo Brasil?,55586.0,37275.0,1654.0,1294.0,0.0,False,,,@sandra10053160
+Eu até ia votar na áurea aqui em BH mas toda propaganda dela é falando que BH só teve prefeito homem e branco. Mas quais as propostas dela? Ela vai comandar a prefeitura só sendo mulher?,2020-10-25 09:43:58,pt,,0.0,0.0,,Cause I'ma sleep when I R.I.P,Life is like a pipe and I'm a tiny penny rolling up the walls inside - Tenho 10 cachorros e posto muita coisa deles o dia todo 🐶🐕🐑,45341.0,2094.0,154.0,348.0,1.0,False,,,@marinateles
+Eu ainda não acredito que têm mineiro querendo reeleger o ditador do Kalil pqp. https://t.co/DTtq14sqpF,2020-10-25 09:41:41,pt,,0.0,0.0,,Gustavo Luiz 🇧🇷🇺🇸📊📉📈,"Trader, operador de bolsa de valores, se especializando em Mercados Futuros BM&F. Empresário formado em ADM e Educação Física.",3302.0,12390.0,586.0,478.0,1.0,False,,,@Gutocal
+"@fredead2014 @MalluPrecioso @renatosf @Atletico @LibertadoresBR Mallu, você não deixa de ser fera por causa disso, mas nessa estou com o João Vitor Xavier quando fala de emprego na propaganda. No mês caso, falo que quem está há 49 anos esperando, como eu, tem pressa de ser campeão de novo",2020-10-25 09:20:52,pt,,0.0,0.0,@danielgalim,"(-6) danielgalimᶜᵃᵐ 13 du🅰️s vezes, GaloPT","(de🏡) Jesus em primeiro lugar, depois a família e bem depois o Galo. Sou Esquerda, se você é bolsominion não me siga.
+
+Baixem meu aplicativo Ranking do Futebol",64530.0,145345.0,3817.0,4280.0,8.0,False,,,@danielgalim
+"@aurea_bianca_ @sharam_diniz @NanizaiawoM Oié, olha essa resposta 😂😂😂 @notvictor14",2020-10-25 08:51:05,pt,,2.0,0.0,@aurea_bianca_,Lord stark 🤴,"Leal, Engenheiro e Tony Stark nas horas vagas.",1893.0,1594.0,163.0,16.0,0.0,False,,,@damiveloso
+"@MahhMoura18 aaaaaaaaa super simpatizo com você, sua áurea tem uma luz boa demais, te adoro gostosa!!! 💖",2020-10-25 08:47:45,pt,,1.0,0.0,@MahhMoura18,xulia,vivendo nesse mundo louco,27914.0,30977.0,3295.0,3546.0,0.0,False,,,@JuSValadares
+@aurea_bianca_ Provavelmente não...dependerá da postura da CNE. Mas votarei não mesma. É preciso dificultar ao máximo a batota.,2020-10-25 08:41:03,pt,,2.0,0.0,@aurea_bianca_,Claudio Silva,"Co-founder & managing partner @luandanightlife; former Lusophone music blogger. Enjoy writing about food, travel and politics.",9622.0,6122.0,1334.0,4937.0,71.0,False,,,@CaipLounge
+"Olhar fúnebre, áurea assassina",2020-10-25 08:39:42,pt,,0.0,0.0,,Bloody Hermes,"death. before. dishonor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ghostcorp## bloodyworld## virtualguap##",8928.0,1852.0,270.0,716.0,2.0,False,,,@hermetismbwoy
+"""Quando ganha, dura 5 minutos,  quando perde fica em claro a noite inteira.""
+😡
+
+Kalil",2020-10-25 08:39:39,pt,,2.0,0.0,,R🅰️nyeri Davila,"Atleticano Xiita e fundamentalista. RG Mineiro e IPTU Paraibano. 
+Pai do Davi.
+Professor da Universidade Federal da Paraíba.",4251.0,3310.0,1368.0,1367.0,0.0,False,,,@Ranyeri10
+"so te vi uma vez, mas vc tem uma áurea muito convidativa, Gaby. parece ser mt aberta ao novo; que seja verdade 🤞",2020-10-25 08:10:29,pt,,0.0,0.0,@silverzepelim,pizpot gargravarr 🎃,primata autodidata vivendo em um planetinha praticamente inofensivo na borda da galáxia;,2761.0,5012.0,172.0,111.0,0.0,False,,,@silverzepelim
+@solonsampaio @caio_npimenta Kalil não tem rabo preso. apoiou Ciro em 18 e tacou o foda-se,2020-10-25 08:03:45,pt,,2.0,0.0,@solonsampaio,cidadão de mal 🌹,"eu escolho o lado dos perdedores
+ig: pedrim_felipe",8285.0,26113.0,664.0,367.0,0.0,False,,,@PedronPedrim
+Marisa Liz a proteger a Áurea EVER no the voice,2020-10-25 07:53:08,pt,,3.0,0.0,,braba porém chorona🦉,tentando sobreviver ao apocalipse viral geminiana♊️ y cansada 🌈 só posto porcaria,2038.0,5026.0,760.0,822.0,0.0,False,,,@YoKarlla
+"a áurea do hobi é coisa de outro mundo, ele é um anjo :((",2020-10-25 07:40:28,pt,,0.0,0.0,@reflectjk,⁷ • ʙᴇ,ㅤㅤㅤjune 2013. ♥︎ | only aRMy,3455.0,10239.0,275.0,325.0,0.0,False,,,@reflectjk
+seu perfil foi visto por 3 pessoas nas últimas 2 horas https://t.co/JRnYOw2NWw,2020-10-25 07:31:47,pt,,0.0,0.0,,Kalil Miguel,"🍃 25 anos.                                                     🍃 Psicológico.                                          🍃 Empresário, https://t.co/KDSeAonRsc",5086.0,450.0,129.0,75.0,2.0,False,,,@Kalil_Miguel

@@ -1,0 +1,37 @@
+------------------------------------------------------API TWITTER---------------------------------------------------------
+API key:
+
+yFlDV0Qbc0KwevQDVGTNwCN3z
+
+API key secret:
+
+S25irtJRK65KAhkJcmQRN6YjsItW5MzN03d9snRiQXI7RsZ2M6
+
+Access token:
+
+29254235-sConkPTmHihXWtTvdZrbVWjYDsMWU5CoeXaPn6doZ
+
+Access token secret:
+
+ZgL9BCc39pfBhil2apC9ZAX1BT8St19Y9ukHWGaOflnTN
+
+---------------------------------------------------------DADOS ELEICOES--------------------------------------------------
+1 - Alexandre Kalil (PSD) - 
+2 - Áurea Carolina (PSOL) - 
+3 - Bruno Engler (PRTB) - 
+4 - Cabo Xavier (PMB) - 
+5 - Fabiano Cazeca (PROS) - 
+6 - João Vítor Xavier (Cidadania) - 
+7 - Lafayette de Andrada (Republicanos) - 
+8 - Luisa Barreto (PSDB) - 
+9 - Marcelo Souza e Silva (Patriota) - 
+10 - Marília Domingues (PCO) - 
+11 - Nilmário Miranda (PT) - 
+12 - Professor Wendel Mesquita (Solidariedade) - 
+13 - Rodrigo Paiva (Novo) - 
+14 - Wadson Ribeiro (PCdoB) - 
+15 - Wanderson Rocha (PSTU) - 
+
+Palavras: [Eleitores] + BH, Eleicoes + BH, Prefeito BH, Votar + BH
+
+1000 Por dia para cada palavra.
